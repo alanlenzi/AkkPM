@@ -1,0 +1,19 @@
+<project n="caspo/akkpm" 
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <name>CASPo/Akkadian Prayer Miscellany</name>
+  <abbrev>CASPo/akkpm</abbrev>
+  <project-type>oracc</project-type>
+  <type>corpus</type>
+  <logo type="text">CASPo/akkpm</logo>
+  <public>yes</public>
+<option name="build-approved-policy" value="atf"/>
+<option name="build-outlined-policy" value="P"/>
+<option name="catalog-build-policy" value="auto"/>
+<option name="cbd-mode" value="mixed"/>
+<option name="%akk-x-stdbab" value=". cams/gkab"/>
+<option name="outline-default-select" value="true"/>
+<option name="outline-default-sort-fields" value="period,provenience,genre"/>
+<option name="outline-default-sort-labels" value="Time,Genre,Place"/>
+<option name="render-accents" value="no"/>
+</project>
