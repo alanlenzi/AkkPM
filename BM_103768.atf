@@ -1,4 +1,4 @@
-&P413616 = AbB 13, 164
+﻿&P413616 = AbB 13, 164
 #project: caspo/akkpm
 #atf: lang akk-x-oldbab
 #atf: use unicode
@@ -25,7 +25,7 @@
 5. i-nu-u₂-ma da-li-li 
 6. a-na# ma#-har# {d}i-šum
 7. a-da-la-lu 
-8. u₃ da!(di)-li-li-ki 
+8. u₃ da!(DI)-li-li-ki 
 9. lu-ud-lu-ul
 
 @translation labeled en project
