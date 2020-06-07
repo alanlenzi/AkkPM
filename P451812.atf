@@ -1,0 +1,126 @@
+&P451812 = 1879-07-08, 050
+#project: caspo/akkpm
+#atf: lang akk-x-stdbab
+#atf: use unicode
+##note: The most recent editon to my knowledge is Mayer 1975: 537-540.
+##note: There are some interesting mistakes in the tablet. The scribe wrote ḫé-pí eš-šú, "a new break" (ḫé-pí stands alone in line 20') in his copy to indicate several broken places on his Vorlage. That's not unusual. A little more interesting: Some of the "new breaks" occur mid-word, suggesting the scribe either could not or would not fill in the gap, which we can restore with fairly high confidence. Was this due to respect/reverence for the original or rather inability (i.e., he didn't know Akkadian so well)? Even more interesting: In one case, the last one in line 22', the scribe wrote the IG sign before writing "new break." IG is not the sign we'd expect in what is almost certainly a formulaic phrase at the end of this line (qí-bi NA[M.TI.LA-MU], "command l[ife for me]").The IG is likely a mistake for NAM, which differs from IG by only two oblique wedges on the right side of the sign. Apparently, the scribe only wrote as much as he saw.
+
+@tablet
+
+@obverse
+
+$ obverse missing
+
+@reverse
+
+$ beginning of reverse missing
+
+1'. [...] x# [...]
+#tr.en: [. . .] . . . [. . .]
+
+2'. [...] di-pa-ru# x# [...]
+#tr.en: [. . .] torch [. . .]
+#note: This word may indicate a celestial context.
+
+3'. [...] x# i-kaš-ša₂-du ni-iz-mat#-[su]
+#tr.en: [. . .] . he achieves [his] desire.
+#note: Mayer suggests restoring: [ša₂ ha-si-si-k]i?, "[the one  who thinks of y]ou," at the beginning of the line (1976: 537).
+
+4'. [as-sa]-hur#? i-lut-ki ib-ši-a-ki uz-na#-[a-a]
+#tr.en: [I have] turned(?) to your divinity, I direct [my] attention (lit. ears) to you.
+#note: The following restorations are from Mayer's edition, unless otherwise noted.
+
+5'. [as-ruq]-ki# si-riq ŠIM.LI el-la#
+#tr.en: [I st]rew an offering of pure juniper.
+
+6'. [aq-qi₂-ki] el-la bal-la da-aš₂-pa ku-ru-un-na#
+#tr.en: [I libate for you] a (ritually) pure, mixed, honey-sweetened kurunnu-beer.
+
+7'. [a-ku-li] ṭa#-a-ba ši-ti-i da-aš₂-pa
+#tr.en: [Eat] the good (things); drink the sweet (things).
+
+8'. [be-el-ti] i#-ziz-zi-im-ma ʾ-il-ti pu-uṭ-ri
+#tr.en: [O my lady], stand here; forgive my guilt.
+
+9'. [aš₂?-šu₂? re-me₂]-ne-e-ti u mu-pa-aš₂-ši-ra-a-ti
+#tr.en: [Because] you are [merci]ful and you are forgiving,
+
+10'. [...] ZU#-uk-ki ib-ba-aš₂-šu-u₂
+#tr.en: . . . your . . . are . .. 
+
+11'. [ša₂] ta#-ra#-aš₂-ši-i ta-at-ti-ri
+#tr.en: [Whatever] you acquire, you (acquire) in excess. 
+
+12'. [a]-šar ug-ga-tuk taš-ku-nu ta-paṭ-ṭa-ri
+#tr.en: [Whe]rever you set your anger, you (also) release 
+
+13'. ki-ṣir lib₃-ba-uk-ki
+#tr.en: the anger (lit. knot) of your heart.
+#note: The line is indented.
+
+14'. x# x# ZI#? u₃ qa₂-bu-u₂ u ŠE.GA i-ba-aš₂-šu-u it-ti-ki
+#tr.en: [. . .] and speaking and agreeing are with you.
+#note: Mayer suggests [aš₂?-šu₂?] at the start of the line (1976: 538). I'm not so sure the traces of the tops of the signs will support that reading. 
+
+15'. [x]-x# bu-ul-lu-ṭu i-ba-aš₂-šu-u₂ it-ti-ki
+#tr.en: [. .] . . reviving are with you.
+#note: Mayer suggests [aš₂-šu]m? or [LU₂.U]Š₂?? at the head of the line (1976: 538).
+
+16'. [a-na] bu#-ul-luṭ na-piš-ti-ia he-pi₂ eš-šu₂ as-hur
+#tr.en: I turn <to you> [for] the restoring of my life.
+#note: Mayer suggests restoring <kâši> in the "new break" (1976: 540).
+
+17'. [ru]-qiš al-si-ki qer-bi-iš ši-min₃-ni
+#tr.en: I call on you at a [dis]ance; hear me up close.
+
+18'. [mim]-ma#? lem-nu u₂-piš HUL{+ti₃} ša₂ a-me-lu-ti
+#tr.en: [What]ever evil, the evil machinations of humanity,
+
+19'. [ša₂] šak#-nam-ma ur-<ra> u₃ mu-<ša> he-pi₂ eš-šu₂ šu-ʾ-du-ra-ku ana-ku
+#tr.en: [that] beset me and <pursue me constantly> night and day, so that I am very afraid,
+#note: Mayer suggests restoring <UŠ.UŠ-an-ni-(ma)> in the "new break" (1976: 540).
+
+20'. [ina] SU-ia us-hi he-pi₂ GIM i-lut-ki ra-ba he-pi₂ eš-šu₂
+#tr.en: Tear <it> out [from] my body, because your divinity <is> great
+#note: Mayer suggests restoring us-ḫi-<šu-ma> and ra-ba-<at-(ma)> in the first and second "new break," respectively (1976: 540).
+
+21'. u₃# GIM ina DINGIR-MEŠ GAL-MEŠ ṣi-ra-a-ti he-pi₂ eš-šu₂
+#tr.en: and because among the great gods you are exalted <. . .>
+#note: There are no suggested restorations for this "new break."
+
+22'. i-na kul-lat {d}i₂-gi₃-gi₃ ma-la ba-šu-u₂ qi₂-bi IG he-pi₂ eš-šu₂
+#tr.en: Among all of the Igigi, as many as there are, command <life for me.>
+#note: Mayer suggests restoring qí-bi NA<M.TI.LA-MU> in the "new break" (1976: 540). This case is interesting since the scribe wrote what he saw, IG, which is very similar to NAM, just before the break.
+
+23'. ša₂ tam-ha-ṣi at-ti-ma tu-pa-aš₂-ša₂-hi
+#tr.en: The one you strike, you (also) heal.
+
+24'. ša₂ ta-ru-ri at-ti-ma ta-kar-ra-bi
+#tr.en: The one you curse, you (also) bless.
+
+25'. ša₂# te-zi-zi at-ti-ma tap-pa-aš₂-ša-ri
+#tr.en: The one with whom you become angry, you (also) are reconciled.
+
+26'. [i]-ziz#-zi-im-ma be-el-ti ʾ-il-ti pu-uṭ-ri
+#tr.en: [S]tand here, O my lady; forgive my guilt.
+
+27'. [it-ti]-ki#!(KA) li-iz-ziz {d}a-num a-bi DINGIR-MEŠ GAL.<MEŠ>
+#tr.en: [With] you, may Anu, father of the great gods, stand.
+
+28'. [it-ti]-ki# li-iz-ziz {d}+EN.LIL₂ EN te-ne₂-še-e-ti
+#tr.en: [With] you, may Enlil, the lord of humankind, stand.
+#note: Mayer continues to restore [it-ti-ka] to the end of the tablet (1976: 538, 540), supposing, I guess, that the scribe perpetuated the mistake.
+
+29'. [it-ti-ki] li#-iz-ziz {d}e₂-a ba-an DINGIR-MEŠ mu-šim ši-ma-a-ti#
+#tr.en: [With] you, may Ea, creator of the gods, fixer of fates, stand.
+
+30'. [it-ti-ki] li#-iz-ziz {d}AMAR.UTU ABGAL DINGIR-MEŠ mu-bal-liṭ mi-ti#
+#tr.en: [With] you, may Marduk, sage of the gods, who restores the dead, stand.
+
+31'. [it-ti-ki li]-iz#-zi-za DINGIR.E₂-MEŠ KI ša₂ du-um-qi₂#
+#tr.en: [With] you, [may] the gods of the house(?), the place of favor, stand.
+#note: Mayer reads the last half of the line as KI.GAR du-um-qi₂ and has no translation (1976: 538-539).
+
+32'. [it-ti-ki li-iz]-ziz {d}GAZ.BA.BA u {d}ka-ni-sur-ra#
+#tr.en: [With you, may] Gazbaba and Kanisurra [s]tand.
+#note: On these two related deities, see Frankena 1954: 88-89 and 96-97 (ka-zal-sur-ra).
