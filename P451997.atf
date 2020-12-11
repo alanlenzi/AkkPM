@@ -1,4 +1,4 @@
-&P451997 = 1880-07-19, 0152 + 1881-02-04, 0188
+﻿&P451997 = 1880-07-19, 0152 + 1881-02-04, 0188
 #project: caspo/akkpm
 #atf: lang akk-x-stdbab
 #atf: use unicode
@@ -8,120 +8,310 @@
 
 @obverse
 
-1. ep-šet im-hu-ra-an-ni# [...] x-MEŠ u₂-za-kar
-2. a-na ba-na-at ne₂-me#-[qi₂ ... i?-lat? ta]-na#-da-a-ti
-3. a-na a-ši-bat E₂-MAŠ.MAŠ {d#}[iš-tar ...] u₂#-ša₂-pa zik-ri
-4. a-na šar-rat DINGIR-MEŠ ša₂ par-ṣi# [... šu]-ut#-lu-mu qa-tuš-ša₂
-5. a-na be-let {uru}NINA ru#?-[bat? ...]-MEŠ ša₂-qu-tu₂
-6. a-na DUMU.SAL {d}3(u) ta-li-mat {d}šam#-ši# ku#?-ul#-lat LUGAL{+ti} ta-be-el
+1. ep-šet im-hu-ra-an-ni# [x x x x x x x (x) ina?] DINGIR#?-MEŠ u₂-za-kar
+#tr.en: That which befell me [. . . among(?)] the gods, I shall recount,
+#note: Note that the first word occurs in Ludlul II 10 and see CAD E, 242 for other, comparable instances. Whatever originally appeared in the gap, it seems to me that it must have mentioned Ishtar. Von Soden suggests the sign after the break could be GAL-MEŠ (1974/1977: 44), thus [... DINGIR-MEŠ GA]L-MEŠ. Lambert's copy indicates a DINGIR is more likely (see George and Taniguchi 2019, no. 56).
+
+2. a-na ba-na-at ne₂-me#-[qi₂ (x x x) si?-mat? ta]-na#-da-a-ti
+#tr.en: To the creator of wisd[om, . . . (are) worthy of r]enown,
+#note: The suggested restoration is my own, based on similar phrases cited in CAD T, 169. (The plural noun to which the last word in the line refers is lost in the break; e.g., ep-šet-sa, "whose deeds"). Others suggest i-lat in the break before the last word (see, e.g., von Soden 1974/1977: 38). 
+
+3. a-na a-ši-bat E₂-MAŠ.MAŠ {d#}[iš-tar x x x] u₂#-ša₂-pa zik-ri
+#tr.en: To the one who dwells in the Emashmash, [Ishtar . . .] (who) extols my name,
+#note: I tentatively hold the goddess as the subject of the verb (so Seux 1976: 497 and von Soden 1953: 264; 1974/1977: 42), though the subject could also be the speaker himself (so Foster: " I shall tell of myself" [2005: 327] or more literally, "make manifest my name" [327n.3]).
+
+4. a-na šar-rat DINGIR-MEŠ ša₂ par-ṣi# [ka?-li?-šu₂?-nu? šu]-ut#-lu-mu qa-tuš-ša₂
+#tr.en: To the queen of the gods, into whose hands [all(?)] the cultic rites are [be]stowed,
+#note: The restoration follows Foster's translation (2005: 327), who attributes the suggestion to Lambert (330). The precise Akkadian is my own suggestion.
+
+5. a-na be-let {uru}NINA qa#?-[rit?-ti? DINGIR?]-MEŠ ša₂-qu-tu₂
+#tr.en: To the lady of Nineveh, the he[ro of the god]s, the most exalted one,
+#note: Lambert's copy indicates a QA before the break (see George and Taniguchi 2019, no. 56); compare von Soden, who suggests RU (1974/1977: 38, 44). The restoration is my own suggestion, based on the fact that qarittu is a very common epithet for Ishtar (see CAD Q, 129-130 for examples).
+
+6. a-na DUMU.SAL {d}3(u) ta-li-mat {d}šam#-ši# ša# kul#-lat LUGAL{+ti} ta-be-el
+#tr.en: To the daughter of Sin, the twin of Shamash, who governs the totality of kingship,
+#note: The reading ⸢ša kul-lat⸣ in the middle of the line follows Lambert's suggestion (1980: 71n.2). See also his copy (George and Taniguchi 2019, no. 56).
+
 7. a-na pa-ri-sa-at EŠ.BAR DINGIR{+at} kal gim-ri
-8. a-na be-let AN{+e} u KI{+ti₃} ma-hi-rat taṣ-li-ti
+#tr.en: To the one who decides lawsuits, the goddess of absolutely everything,
+
+8. a-na be-let AN{+e} u KI{+ti₃} ma-hi-rat tes₂-li#-ti
+#tr.en: To the lady of the heavens and the earth, who receives petitions,
+
 9. a-na še-ma-at ik-ri-bi le-qa-at un-ni-ni
-10. a-na DINGIR{+ti} rem₂-ni-ti ša₂ me-ša₂-ra i-ra-am-mu
-11. {d}iš-tar NIN ša₂ bul-lu-lu i-si-iq-ša₂
-12. da-al-pa-a-te mal a-tam-ma-ru mah-ra-ki a-taš#?-šar#?
-#note: Lambert's copy shows only BAR for the second to last sign (George and Taniguchi 2019, no. 56).
-13. a-na al-mu-u-a šu-nu-hi lib-ša₂-a u₂#-zu#-un-ki
-14. a-na siq-ri-ia šum₂-ru-ṣi ka-bat-ta#-ki lip-pa-šer#
+#tr.en: To the one who hears prayer, who accepts supplication,
+
+10. a-na DINGIR{+ti₃} rem₂-ni-ti ša₂ me-ša₂-ra i-ra-am-mu
+#tr.en: To the merciful goddess, who loves justice,
+
+11. {d}iš-tar NIN ša₂ bul-lu-ṭu!(LU) i-si-iq-ša₂
+#tr.en: (O) Ishtar, the lady whose nature (it is) to restore to life,
+#note: The LU, as von Soden notes (1974/1977: 44), may be clear on the tablet but the text is almost certainly mistaken. I read with CAD I, 201 (even if based on Brünnow's article from 1890 in ZA 5), which cites a parallel in K.3582 (= Craig, ABRT 2 21: 10). Reading bulluṭu provides a much better sense in context. See also Foster 2005: 328; Seux 1976: 498; and von Soden 1953: 265.
+
+12. da-al-pa-a-te mal a-tam-ma-ru mah-ra-ki a-taš#?-šar#
+#tr.en: I will set forth(?) in your presence all the trials I have experienced.
+#note: The reading of the final verb is problematic. Brünnow reads a-bak-ka (?), "I bewail" (1890: 67, 69). Von Soden suggests a-taš!-šar!, "überprufte ich . . . immer wieder" (1974/1977: 39, 42). Seux suggests we read a-maš-šar (1976: 498n.7), citing CAD A/2, 422, where a-taš-šar is implicitly rejected and Lambert is cited as collating the new reading (see now Lambert's copy [George and Taniguchi 2019, no. 56], which shows only BAR for the second to last sign). If a-maš-šar is correct, the present context would be the only case I can find of mašāru, "to drag," used metaphorically (see CAD M/1, 359-360). Foster cites Lambert's suggestion to read a-pa?-šar (2005: 330; similarly CAD D, 142: a-⸢pa-aš₂-šar⸣), perhaps to be rendered "I will tell" (so CAD D, 142) or "I will explain." After looking at the available photograph of the tablet on CDLI, it seems to me that the second to last sign may be UR, to be read taš. If ašāru is correct, the present context is somewhat difficult because ašāru is typically used for mustering, organizing, or caring for troops, people, rations, or other material items (see CAD A/2, 420-422). Abstract nouns such as "troubles" are typically not the object of such reviewing or organizing. There is one use in a colophon, however, that may be relevant here. BAK, no. 63 (see Hunger 1968) reads in part: ašrā bariā šalmā, "reviewed, collated, (and) completed" (also cited in CAD A/2, 421). This usage suggests the verb could be used for the reviewing or organizing of a text, and this may provide the one attestation that gives some viability for the use of the verb in the present context to refer to the enumeration or the surveying or the setting forth (adapting Foster's rendering [2005: 328]) of ills. 
+
+13. a-na at-mu-u-a šu-nu-hi lib-ša₂-a u₂#-zu#-un-ki
+#tr.en: Give ear to my wearied utterance,
+#note. Lit., "may your ear be (directed) to my wearied utterance."
+
+14. a-na siq-ri-ia šum₂-ru-ṣi ka-bat-ta#-ki lip-pa-šir#
+#tr.en: May your mood be appeased at my afflicted speaking.
+
 15. am-ri-in-ni NIN ki-i su-uh-hu-ra-ku# lib₃-ba-ki# lim-ra-aṣ
+#tr.en: Look upon me, O lady, that I am turned (to you). May your heart show concern (for me)!
 
 $ single ruling
 
 16. {m}aš-šur-PAP{+ir}-A ana-ku šum₂-ru-ṣu# IR₃-ki
+#tr.en: I (am) Ashurnaṣirpal, your afflicted servant,
+
 17. šah-tu pa-lih DINGIR{+ti}-ki pit-qu-du na-ram-ki
+#tr.en: The humble one, who fears your divinity, the trustworthy one, your beloved,
+
 18. mu-kin₂ PAD.{d}+INANA-MEŠ-ki la mu-par-ku-u na#-di#-nu zi-bi-ki
+#tr.en: Who furnishes your offerings, who never ceases providing your food offerings,
+
 19. ha-ši-ih i-si-na-te-ki mu-ša₂-az-ni-nu# BARA₂#-ki
-20. mu-ṭa-hi-id KAŠ.TIN.NAM bi-bil lib₃-bi-ki ša ta-ra-mi
-21. DUMU {d}šam-ši-IM MAN pa-lih DINGIR-MEŠ GAL-MEŠ
-22. ab-ba-ni-ma ina qe₂-reb KUR{+i} ša₂ NU ZU-šu₂-nu MAM₂-ma
+#tr.en: Who yearns for your festivals, who provisions your sanctuaries, 
+
+20. mu-ṭa-hi-id KURUN.NAM bi-bil lib₃-bi-ki ša ta-ra-mi
+#tr.en: Who abundantly supplies the kurunnu-beer, which you love, the desire of your heart, 
+
+21. DUMU šam-ši-{d}IŠKUR MAN pa-lih DINGIR-MEŠ GAL-MEŠ
+#tr.en: The son of Shamshi-Adad, the king who fears the great gods.
+
+22. ab-ba-ni-ma ina qe₂-reb KUR{+i} ša₂ NU ZU-šu₂-nu mam₂-ma
+#tr.en: I was born in the mountains, (in a place) that no one knows.
+#note: For the possible meanings of this line, see Seux 1976: 498n.14. Foster (2005: 328), following a suggestion attributed to Lambert (330), reads the final two signs as one, NIN, and translates, "I was formed in mountains unknown to you, lady."
+
 23. ul ha-sa-ku-ma be-lut-ki ul u₂-sap-pa-a ka-a-a-an
+#tr.en: I did not give your rulership consideration. I never entreated (you).
+
 24. UN-MEŠ KUR aš-šur{ki} ul i-da-ni-ma ul im-da-ha-ra DINGIR{+ut}-ki
+#tr.en: The people of the land of Ashur did not know me; they were not in the habit of appealing to your divinity.
+
 25. at-ti-ma {d}iš-tar u₂-šum₂-gal-lat DINGIR-MEŠ ra-šub-ti
-26. i-na ni-is IGI-MIN-ki tu-di-ni-ma tah-šu-hi EN{+u₂-ti}
+#tr.en: You, O Ishtar, great, terrifying dragon of the gods, 
+
+26. i-na ni-iš IGI-MIN-ki tu-di-ni-ma tah-šu-hi EN{+u₂-ti}
+#tr.en: With the lifting of your eyes, you recognized me and desired my lordship.
+#note: See the use of the final verb in obv. 19.
+
 27. tal-qi₂-ni-ma ul-tu qe₂-reb KUR{+i} a-na SIPA{+tu₂} ina UN-MEŠ tab-bi-in-ni
-28. tu-ki-in-ni GIŠ.PA eš-re-e-ti a-na li-tab-bur da-ad₂-mi
+#tr.en: You took me from the midst of the mountains and called me to shepherd the peoples.
+
+28. tu-ki-in-ni GIŠ.GIDRU eš-re-e-ti a-na li-tab-bur da-ad₂-mi
+#tr.en: You established (my) righteous staff to sustain the habitations long into the future.
+
 29. at-ti-ma {d}iš-tar tu-ša₂-aš₂-ri-hi zik-ri
+#tr.en: You, O Ishtar, glorified my name.
+
 30. ta-qi₂#-ši-ma ki-nu-te šu-zu-ba ga-ma#-lu
-31. ina pi-i-ki u₂-ṭa-a ud-du-uš DINGIR-MEŠ na-ak-mu-ti
+#tr.en: You granted (me) (resolve) to rescue (and) to spare those loyal (to me).
+#note: As Seux notes (1976: 499n.17), this line may reference the events surrounding the king's ascension to the throne.
+
+31. ina pi-i-ki u₂-ṣa-a ud-du-uš DINGIR-MEŠ na-ak-mu-ti
+#tr.en: According to your command (lit. in the going forth of your mouth) to renew the amassed gods (i.e., divine images),
+#note: As Foster's translation indicates (2005: 328), nakmūti, "amassed," may very well describe the gods that are in storage because they are unfit for ritual use due to disrepair.
+
 32. E₂.KUR-MEŠ šu-uh-ha-a-te u₂-di-ša₂ a-na-ku
+#tr.en: I myself renovated the decrepit temples.
+
 33. DINGIR-MEŠ šul-pu-tu-ti ab-ni a-šar-šu₂-nu ut-ter
-34. iš-qu u PAD.{d}+INANA-MEŠ u₂-kin-šu₂-nu a-na ṭa-a-ti
-35. u₂-še-piš-ma GIŠ.NU₂ GIŠ.KU KI.NU₂ tak-ne₂-e mu-šap-ši-ih DINGIR{+ti}-ki
+#tr.en: I repaired the ruined gods (i.e., divine images) and returned (them) to their place.
+  
+34. iš-qu u PAD.{d}+INANA-MEŠ u₂-kin-šu₂-nu a-na ṣa-a-ti
+#tr.en: I established their share and offerings perpetually.
+
+35. u₂-še-piš-ma GIŠ.NA₂ GIŠ.TASKARIN KI.NA₂ tak-ne₂-e mu-šap-ši-ih DINGIR{+ti}-ki
+#tr.en: I built a bed of boxwood, a comfortable resting place that provides your divinity with rest,
+
 36. ša ina KU₃.GI liq-ti šu-su-me e-ri-mu qe₂-reb-ša₂
-37. ni-siq-ti NA₄ KUR{+e} šu-qu-ru-<ti> u₂-za-ʾ-in-ši ki-i# AB ILIMMU₄ U
-38. u₂-lil-ši a-na ṣu-ub-be₂-e u₂-mal-<li>-ši# [ki?]-bal-ti
+#tr.en: Whose interior I gilded with the very best (lit. selected, appropriate) gold.
+
+37. ni-siq-ti NA₄-MEŠ KUR{+e} šu-qu-ru-<ti> u₂-za-ʾ-in-ši ki-i# AB ILIMMU₄+U
+#tr.en: I decorated it with choice precious stones from the mountains, like(?) . . .
+#note: The ILIMMU₄ and U are written on the edge, closely together (thus three Winkelhaken and then one more closeby). These signs designate damage on the original tablet from which the present tablet was copied in antiquity. See von Soden 1974/1977: 44 and also below.
+
+38. u₂-lil-ši a-na ṣu-ub-be₂-e u₂-mal-liš# bal-ti
+#tr.en: I purified it (so that one could) observe (it) from afar. I filled it with splendor.
+#note: The reading of the end of the line follows Lambert 1980: 72n.2 (compare von Soden 1974/1977: 44). I understand the first half of the line to mean that the king so thoroughly purified (clean, cleansed, etc.) the bed that its brilliance (i.e., the reflected light from the gold and precious stones on the bed) could be seen for quite some distance. See the next line.
+
 39. u₂-nam-mir-ši GIM ŠE.ER.ZI {d}šam-ši a-na# na#-ṭa-li as-mat
+#tr.en: I made it radiant like the rays of the sun, worthy to behold. 
+
 40. u₂-šar-ši-si ina E₂.MAŠ.MAŠ šu-bat la-li-ki# <<la#>>-<<li>>-<<ki>> ša ta-ra-mi₃
-#note: The scribe has repeated la#-li-ki by mistake.
-41. ina# mi-ne₂-e u₂-qal-lil!-ki-ma a-[ša₂]-da-ad PAP? ILIMMU₄ U
-#note: von Soden reads the end of the line: р[úš!?-qa?] (1974/1977: 39). The ILIMMU₄ and U are written on the edge, closely together (thus three Winkelhaken and then one more closeby).
-42. tak#-tu#-min₃-ni-i-ma GIG a-ta-a#? [x] tak-tu-ru na-piš-ti#
+#tr.en: I installed it in Emashmash, the luxurious dwelling that you love.
+#note: The scribe has repeated la#-li-ki by mistake. Is this a turning point in the text, precisely 40 lines into it? The opening hymn in Ludlul bel nemeqi is also 40 lines long, though the above is not exclusively hymnic.
+
+41. ina# mi-ne₂-e u₂-qal-lil!-ki-ma a-[ša₂]-da-ad PAP.<HAL> ILIMMU₄+U
+#tr.en: (Given all of this), how have I slighted you so as to b[e]ar (my present) hardship?
+#note: Von Soden reads the end of the line: р[úš!?-qa?] (1974/1977: 39, 44), but the lexeme he has in mind can also simply be written PAP.ḪAL, which is attested elsewhere with šadādu (see CAD Š/1, 25).  
+
+42. tak#-tu#-min₃-ni-i-ma GIG a-ta-a#?-[ma?] tak-tu#-ru na-piš-ti#
+#tr.en: You have covered me with sickness. Why am I at death's door (lit. has my breath become short)?
+#note: The restoration follows Foster's suggestion (2005: 330). For the idiom, see Mayer 1976: 83 with n.25, where he discusses the Assyrian morphology. The present text is not cited, but other prayers attest karû in this expression with the same morphology.
+
 43. [u₂]-ha#-maṭ UZU.SA-MEŠ-MU u₂#-ʾ-bat la-a-ni
-44. [hat?-tu?] pi-rit-tu KIT x# [x] x# ZI{+ti} u₂-NAB?-x#
+#tr.en: [It (i.e., the sickness)] made my body (lit. sinews) feverish; it ruined my frame.
+#note: Von Soden (1974/1977: 39) suggests restoring [u₂?-ḫ]a?-maṭ at the head of the line, translating it, "[Ich lasse] entzündet sein" (43). (See his note on the restorations of obv. 43f. on p. 44.) Rather than a first person verb, we should expect further description of what the sickness brought the supplicant. Thus, I take the verbs as third common singular.
+
+44. [ha?-tu?] pi-rit-tu KIT x# [x] x# ZI{+ti} u₂-nap-paq#
+#tr.en: [Panic], terror, . . . my throat became blocked.
+#note: The restoration at the head of the line follows von Soden (1974/1977: 39). The reading at the end of the line follows Foster, who credits Lambert (2005: 330).
+
 45. [...] x# TA#? RI#? [...] u₂#-rat-ta qer-[be₂?-nu?]
+#tr.en: [. . .] . . . [. . .] he/it fixed firmly on the in[side(?)]
+#note: The restoration at the end of the line follows von Soden (1974/1977: 39).
+
 46. [...] x# u₂-qat-ta [x x (x)]
-47. [... sur?]-ru-ha u? li#?-[x x (x)]
-#note: Lambert reads the signs in question as MI and NA (George and Taniguchi 2019, no. 56).
+#tr.en: [. . .] he/it brought [. . .] to an end.
+
+47. [...] RU HA u? li#?-[x x (x)]
+#tr.en: [. . .] and(?) . . [. . .]
+#note: Von Soden suggests we read [sur?]-ru-ḫa at the head of the line (1974/1977: 39). Lambert reads the last two signs in the transliteration as MI and NA (George and Taniguchi 2019, no. 56) rather than U and LI (with von Soden), who also gives DA? as an alternative to LI? (1974/1977: 39). Collation is required.
+
 48. [...] UZ#? ZA KI x# [x x x]
+#tr.en: [. . .] . . . [. . .]
+
 49. [...]-x# TU U₂ x# [x x (x)]
+#tr.en: [. . .] . . . [. . .]
 
 @reverse
 
 1. [...] x# KA# x# [x x x]
+#tr.en: [. . .] . . . [. . .]
+
 2. [...] x# MI U₂ DI#? [x x x]
+#tr.en: [. . .] . . . [. . .]
+
 3. [...] di#-ma-tu# [x x x]
-4. [... lit?-tak?]-kiš#? ina SU-MU# [x x]
+#tr.en: [. . .] tears [. . .]
+
+4. [...] KIŠ#? ina SU!(ZU)-MU# [(x x)]
+#tr.en: [. . .] from my body [(. . .)]
+#note: Von Soden suggests we read the beginning of the line [... lit?-tak?-k]iš? (1974/1977: 39).
+
 5. [...] {d}BIL.GI i#?-[x x]
-6. [... li?]-gi#?-ma-a PA UŠ#? [x x]
-#note: The last sign might be D[A.
-7. [...] x# A RAD PA GAR [x x]
+#tr.en: [. . .] Girra [. . .]
+
+6. [...] x# MA A PA UŠ#? [x x]
+#tr.en: [. . .] . . . [. . .]
+#note: Von Soden suggests restoring [... li?-g]i#?-ma-a at the beginning of the line. The last sign might be D[A] (von Soden 1974/1977: 39).
+
+7. [...] x# A RAD pa-gar#-[x x]
+#tr.en: [. . .] . . . body of [. . .]
+
 8. x# x# ZI# x# [...] x#-mi-ri pe-ta-[x (x)]
+#tr.en: . . . [. . .] . . . [. . .]
 
 $ single ruling
 
 9. ka-a-a-na-ma x# [x x x] be#-lu-ta-ki u₂-sa#-[pa]
-10. ina ma-har DINGIR{+ti}-ki x# [x x] x# UD ta ha as [(x)]
+#tr.en: Constantly . [. . .] I entrea[t] your rulership.
+
+10. ina ma-har DINGIR{+ti}-ki x# [x x] x# ut-ta-ha-as
+#tr.en: In the presence of your divinity . [. . .] I lament.
+#note: The reading at the end of the line follows Foster, who credits Lambert (2005: 330).
+
 11. ki-i la pa-lih DINGIR{+ti}-ki ka#-bi#-is an-zu-ul-li
-#note: von Soden 1974/1977: 39 supplies [ep?-se?-ku?], though the remainder of the line is blank (or likely so).
-12. ki-i la ar-ši ar-ni u gil-la#-ti a-ša₂-da-ad
-#note: von Soden 1974/1977: 39 supplies [hi?-ṭa?], though the remainder of the line is blank (or likely so).
-13. gi-na-a šu-du-ra-ku ina e#-ṭu-ti
-#note: von Soden 1974/1977: 42 supplies [aš₂?-ba?-ku?], though the remainder of the line is blank. Lambert's copy here and in the next two lines indicates a sign on the edge of the tablet, apparently two Winkelhaken; see George and Taniguchi 2019, no. 56.
-14. par-sa-ku-ma ni-ʾ-lu ul a-mar
-#note: I think this line ends in the middle of a word, which confirms what I think about this area of the tablet: it was made from a faulty original. The scribe did not have the text to copy due to a break, probably.
-15. ina GIŠ.GU.ZA LUGAL{+ti}-ia u₂-ze-em-ma
-#note: von Soden suggests restoring -[an-ni] here (1974/1977: 42), though the remainder of the line is blank.
+#tr.en: {I am treated} like one who does not fear your divinity, who violated a taboo.
+#note: From rev. 11 to rev. 21 the tablet shows a gap at the end of each line, suggesting the tablet from which the scribe of the present tablet was copying was defective (see von Soden 1974/1977: 45). Von Soden supplies [ep?-še?-ku?] at the end of this line (1974/1977: 39, 45), though the remainder of the line is blank. The curved brackets in my translation indicate the text that was likely left out. 
+
+12. ki-i la ra!(AR)-ši ar-ni u gil-la#-ti a-ša₂-da-ad
+#tr.en: Like one who committed sins and sacrilege, I endure {the penalty}.
+#note: Von Soden (1974/1977: 39, 45) supplies [ḫi?-ṭa?], though the remainder of the line is blank. In light of the previous line, it seems to me that we should expect a participle at the head of the present line that describes the supplicant's unfavorable treatment. The proposed mistaken AR could have been caused by parablepsis with the following word.
+
+13. gi-na-a šu-du-ra-ku ina e#-ṭu-ti :#
+#tr.en: I am constantly apprehensive; {I dwell} in darkness.
+#note: Von Soden (1974/1977: 42) supplies [aš₂?-ba?-ku?], though the remainder of the line is blank. Lambert's copy here and in the next two lines indicates a sign on the edge of the tablet, apparently two Winkelhaken; see George and Taniguchi 2019, no. 56.
+
+14. par-sa-ku-ma ni-ʾ-lu ul a-mar :#
+#tr.en: I have stopped sexual activity(?); I cannot experience (lit. see) {. . .}.
+#note: The MAR extends to the margin of the tablet, but there is certainly something missing in this line. I am taking ni-ʾ-lu as an infinitive from nâlu, "to lie down," as does Seux 1976: 500, and rendering it in its sexual sense. The infinitive is the object of parsākū-ma (see CAD P, 167 for parāsu in the sense of "to stop" with the infinitive designating the activity that has ceased). However, I wonder if ni-ʾ-lu might be an error for ne₂-me-lu. The aleph sign is similar to EM, which could have been what the scribe intended to write though mistakenly for what should have been a ME sign. If so, we could render the line "I am cut off, and I could not find benefit/profit/advantage." In this case, parāsu might have the sense of "isolated" or "alienated" from others (CAD P, 171). Von Soden thinks a-mar- is the beginning of a verb, but he cannot offer a restoration (1974/1977: 42, 45).
+
+15. ina GIŠ.GU.ZA LUGAL{+ti}-ia u₂-ze-em-ma-x# :#
+#tr.en: On the throne of my kingship I . . . {. . .}
+#note: Von Soden suggests restoring -[an-ni] here (1974/1977: 42), though the remainder of the line is blank. He derives the verb from zummû, "to be deprived of" (45), which Seux rejects (1976: 500n37). Von Soden makes a goddess the subject (lost in the break). I remained unconvinced of a viable restoration.
+
 16. nap-tan a-pa-ta-nu ul e-ṭe-ha-a
-17. KAŠ.TIN.NAM ša₂ nab-la-ṭi₂ a-na da-da-ri
-#note: von Soden suggests restoring [i?-mi?] here (1974/1977: 42), though the remainder of the line is blank.
+#tr.en: I cannot (even) approach the meal I am supposed to eat. {. . .}
+#note: There is room for three or four more signs in the blank space at the end of the line.
+
+17. KURUN.NAM ša₂ nab-la-ṭi₂ a-na da-da-ri
+#tr.en: Kurunnu-beer, sustenance itself, {became} stinkweed {to me}.
+#note: Von Soden suggests restoring [i?-mi?] here (1974/1977: 42) or [ma-šil] (p. 45), though the remainder of the line is blank. There might be enough room to add UGU-MU or something similar. Compare rev. 16-17 with Ludlul II 88-89.
+
 18. pit-nu u rig-ma šum₂-su-ka-ku si-mat
-#note: von Soden suggests restoring [šar?-ru?-ti?] here (1974/1977: 42), though the remainder of the line is blank.
+#tr.en: I despised the stringed instrument (lit. string) and (its) sound, befitting {kingship}.
+#note: Von Soden suggests restoring [šar?-ru?-ti?] here (1974/1977: 42), though the remainder of the line is blank.
+
 19. u₃ ha-da-a ša TI.LA-MEŠ zu-um-ma-ku
+#tr.en: And I am in utter want of the joy of living. {. . .}
+#note: There is room for three or four more signs in the blank space at the end of the line.
+
 20. IGI.MIN-a-a bit-ru-ma-ma ul u₂-ṣab-ba-a
-21. ul u-ša₂-qa-a a-na e-le-ni pa-an qaq-qa-ri [a?-na?-ṭa?-al?]
+#tr.en: (Though) my eyes are full of color, they cannot perceive (anything) at a distance. {. . .}
+#note: There is room for three or four more signs in the blank space at the end of the line.
+
+21. ul u-ša₂-qa-a a-na e-le-ni pa-an qaq-qa-ri 
+#tr.en: I do not raise (them) upward (but merely) {look} at the ground.
+#note: Von Soden suggests restoring [a?-na?-ṭa?-al?] here (1974/1977: 42, less likely: ap-pal-la-as, p. 45), though the remainder of the line is blank.
+
 22. a-di ma-ti NIN GIG la na-par-ku-u tar-ku-si KI-ia#
+#tr.en: How long, (my) lady, will you bind me with (this) never-ending sickness?
 
 $ single ruling
 
-23. ana-ku {I}aš-šur-PAP{+ir}-A šu-ud-lu-pu pa-lih₃-ki
+23. ana-ku {m}aš-šur-PAP{+ir}-A šu-ud-lu-pu pa-lih₃-ki
+#tr.en: I, Ashurnaṣirpal, the exhausted one, who fears you,
+#note: Note CAD Š/3, 194, which takes šudlupu as an adverbial modifier of the participle: "who ceaselessly revere you."
+
 24. ṣa-bit qa-ni DINGIR{+ti}-ki mu-sa-pu-u be-lut-ki#
-25. nap-li-si-ni-ma NIN DINGIR.RA-ki lu-sa-ap-pi#
+#tr.en: Who siezes the hem of your divinity's (garment), who entreats your rulership:
+
+25. nap-li-si-ni-ma NIN DINGIR#-ti!(RA)-ki lu-sa-ap-pi#
+#tr.en: Look at me, O lady, that I may entreat your divinity!
+#note: The DINGIR may be written over an erasure or the traces under the sign may be hints of an adandoned, mistaken repetition of the last part of the NIN sign that precedes it. It is in any case not flawless in its execution. There is some question about how to interpret NIN DINGIR.RA-ki since the most straight forward reading, as the logogram NIN.DINGIR.RA-ki, would result in the supplicant addressing an ēntu (or ugbabtu), which is a human priestess, a cult functionary, rather than the goddess herself. Von Soden wonders if maybe the proper understanding of the signs should be NAM.DINGIR.RA-ki, i.e., ilūtīki, "your divinity" (1974/1977: 45; see likewise, Seux 1976: 501n42 and Foster 2005: 330 with note). A NIN for NAM mistake would have had to have taken place due to similarity in their sounds, whether aural or internal as the scribe copied the text, rather than their shape. But I think it is more likely that the NIN is correct, standing here for the renewed invocation of the deity herself (bēltu), as in obv. 15 and rev. 22 above and rev. 29 below. The problem seems to me to be a distracted scribe, who messed up the DINGIR and seems to have written a mistaken RA instead of TI. Note that RA looks something like TA, present in the line directly below ours. The scribe may have seen TA via parablepsis and written RA in our line, which makes better sense atomistically considered, after the DINGIR. In any case, the correct reading is almost certainly ilūtīki.
+
 26. ša₂ ti-zi-zi reme₂-ni-ma ka-bat-ta-ki lip-pa-šir#
+#tr.en: You who are angry, show mercy on me. May your mood be appeased.
+
 27. ga-ma-lu lib₃-ba-ki UGU-MU lim-ra-aṣ
+#tr.en: May your merciful heart show concern for me.
+
 28. šu-ṣi-i mur-ṣi šum₂-si-ki hi-ṭi-ti
+#tr.en: Expel the illness; remove my sin!
+#note: The second imperative is derived from nasāku (see CAD N/2, 20).
+
 29. ina pi-i-ki NIN# lim-qu-ta pa-ša₂-hi
+#tr.en: From your mouth, O lady, may abatement (of the divine anger against me) come!
+#note: The idea here is that the goddess will speak the command for the divine anger to subside.
+
 30. ENSI₂ mi#-ig#-ra-ki ša₂ NU BAL{+u} ka-a-a-an
+#tr.en: (On) your favored vicegerent, which will never change, 
+#note: Is the immutability to be understood as applying to the supplicant (so Foster 2005: 330 with note) or the king's status as divinely-favored (so von Soden 1974/1977: 44, 45 and Seux 1976: 501)?
+
 31. ri-ši-šu re#-e-mu da-lip-ta-šu ṭu#-ur-di
+#tr.en: Have mercy. Send away his anxiety.
+
 32. ṣab-ti# a-bu-us-su a-na na-ra-mi₃-ki AD DINGIR-MEŠ qu#?-ra#?-du# {d}aš-šur#
+#tr.en: Intercede for him with your beloved, the father of the gods, the hero Ashur,
+
 33. a#-na# ah#-rat u₄-me lut-ta-ʾ-id# DINGIR#{+ut}-ki
-34. [NIR]-GAL₂ lu#-šar-ba-a ina DINGIR#-[MEŠ] šu#-ut AN KI
+#tr.en: So that I may ever (and) continuously praise your divinity,
+
+34. [NIR]-GAL₂# lu#-šar-ba-a ina DINGIR#-[MEŠ] šu#-ut AN KI
+#tr.en: (And) magnify the [prin]cess among the god[s], those of heaven (and) earth.
 
 $ double ruling
 
-35. E₂.GAL {m}aš-šur.DU₃#.A MAN ŠU₂# MAN KUR# aš#-šur#{ki#} ša# {d#}NA₃# [u {d}taš]-me-tu₄ GEŠTU.MIN DAGAL{+tu₄} iš-ru-ku-uš
+35. E₂.GAL {m}aš-šur.DU₃#.A MAN ŠU₂# MAN KUR# aš#-šur#{ki#} ša# {d#}NA₃# [u {d}taš]-me#-tu₄ GEŠTU.MIN DAGAL{+tu₄} iš-ru-ku-uš
 #tr.en: Palace of Ashurbanipal, king of the world, king of the land of Ashur, to whom Nabu and Tashmetu gave wide understanding,
 
-36. i-hu-<uz>-zu IGI.MIN na-mir-tu₄ ni-siq ṭup-šar-ru-u-ti
+36. i-hu-uz-zu IGI.MIN na-mir-tu₄ ni-siq ṭup-šar-ru-u-ti
 #tr.en: (who) has achieved enlightened eyes with regard to the highest level of the scribal art,
 
 37. ša ina LUGAL-MEŠ a-lik mah-ri-ia mam-ma šip#-ru# šu-a-tu la i-hu-zu
@@ -130,7 +320,7 @@ $ double ruling
 38. ne₂-me-qi₂ {d}+NA₃ ti-kip sa-an#-[tak]-ki ma-la ba-aš₂-mu
 #tr.en: the wisdom of Nabu, cuneiform [sig]ns, as many as there are.
 
-39. i-na DUB-MEŠ{+ni} aš₂-šur as-niq# ab-re-e-ma
+39. i-na DUB-MEŠ{+ni} aš₂-ṭur as-niq# ab-re-e-ma
 #tr.en: I wrote, collated, and checked (the present text) on tablets.
 
 40. a-na ta-mar-ti ši-ta-as-si-ia# qe₂-reb E₂#.GAL-ia u₂-kin
