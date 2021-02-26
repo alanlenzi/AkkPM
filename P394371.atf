@@ -1,0 +1,840 @@
+&P394371 = ZA 04, 252-255
+#project: caspo/akkpm
+#atf: lang akk-x-oldbab
+#atf: use unicode
+##note: The present edition is based on von Soden's (ZA 61, pp. 44-71) with a couple of additional fragments, noted in CDLI (see P394371). Collation has not yet been possible. From Fincke's database of joins: K. 02361+ K. 03193+ Sm. 0389 (join: before 1891)+ K. 14033 + Sm. 0601 (von Soden: --/09/1964)+ K. 18434 (Jiménez: 21/12/2011). There is no photograph currently available of the whole tablet. K.18434 fits in at von Soden's I 31-34 = obv. i 23'-26'.
+
+@obverse
+
+@column 1
+
+$ about 8 lines missing
+
+1'. [be-lu₄ ...] sa-bi-[ʾ ...]
+#tr.en: [O lord, . . .] who surg[es . . .]
+#note: The verb is often used with waves or bodies of water.
+
+2'. [...] nap-šur-ka# [...]
+#tr.en: [. . .] your appeasement [. . .]
+
+$ single ruling
+
+3'. [{d}NA₃ ...] sa-bi-ʾ [...]
+#tr.en: [Nabu, . . .] who surges [. . .]
+
+4'. [...] nap-šur-ka [...]
+#tr.en: [. . .] your appeasement [. . .]
+
+$ single ruling
+
+5'. [be-lu₄ šu-ud-lu]-pa ki-ma [...]
+#tr.en: [O lord, the troubl]ed one like [. . .]
+
+6'. [...] u₂-sa-hir [...]
+#tr.en: [. . .] he turned [. . .]
+#note: The verb could be first person but this seems unlikely to me.
+
+$ single ruling
+
+7'. [{d}NA₃ šu-ud]-lu-pa ki-ma [...]
+#tr.en: [O Nabu, the trou]bled one like [. . .]
+
+8'. [...] u₂-sa-hir [...]
+#tr.en: [. . .] he turned [. . .]
+
+$ single ruling
+
+9'. [be-lu₄ ...-lu uz]-za#-ka nir-ka na-ad-ri
+#tr.en: [O lord . . .] your [an]ger, your yoke (is) furious,
+#note: Von Soden does not restore be-lu₄ at the head of this line in his edition (1971: 50). One wonders, given the lack of consistency in case endings (von Soden 1971: 46), if perhaps the last word should be considered a predicate nominative. If so, this line may set a pattern for others that follow.
+
+10'. [... he₂]-gal₂-la ta-na-aš-šar hi-iṣ-bu
+#tr.en: [. . . abu]ndance, you provide a rich yield.
+#note: The precise wording of the translation follows CAD N/2, 64. 
+
+$ single ruling
+
+11'. [{d}NA₃ ...]-lu# uz-za-ka nir-ka na-ad-ri
+#tr.en: [Nabu, . . .] your anger, your yoke (is) furious,
+
+12'. [... he₂]-gal₂-la ta-na-aš-šar hi-iṣ-bi
+#tr.en: [. . . abu]ndance, you provide a rich yield.
+
+$ single ruling
+
+13'. [be-lu₄ ...]-mu-uk la pa-du-uk gir-ri
+#tr.en: [O lord, . . .] your [. . .], your relentlessness (is) a fire,
+#note: See note to obv. 9ˊ above for the translation of girri (gīru) as a predicate nominative, despite the case ending.
+
+14'. [...] DINGIR#-MEŠ ta-bar-ri an-šar₂
+#tr.en: [. . .] of the gods, you oversee Anshar.
+#note: Is this Anshar of Enuma elish fame or a spelling of Ashur? If the latter, then there are significant implications for this text's understanding of the high(er) position of Nabû within the Assyrian pantheon. See Lenzi 2019 for some aspects of this, with reference to other literature.
+
+$ single ruling
+
+15'. [{d}NA₃ ...]-mu-uk la pa-du-uk gir-ri
+#tr.en: [Nabu, . . .] your [. . .], your relentlessness (is) a fire,
+
+16'. [...] AN#.AN ta-bar-ri an-šar₂
+#tr.en: [. . .] of the gods, you oversee Anshar.
+#note: I think it highly likely that AN.AN is in fact a scribal mistake for DINGIR-MEŠ.
+
+$ single ruling
+
+17'. [be-lu₄ ...]-ru-uk ur#-pa-tu₄ ne₂-kel-mu-uk
+#tr.en: [O Lord], your [. . .], your scowl (is) a cloud,
+#note: "Cloud" here must be negative: ominous or forboding or the like.
+
+18'. [... ša₂] i-ša₂-ri tu#-ka-ni iš-de-šu₂
+#tr.en: [. . . the ri]ghteous, you secure his position.
+#note: As von Soden suggested, tu-ka-ni for the expected tu-ka-an is perhaps to be explained as a Sandhi-writing (1971: 62).
+
+$ single ruling
+
+19'. [{d}NA₃ ...-ru-uk ur]-pa-tu₄ ne₂-kel-mu-uk
+#tr.en: [Nabu, your . . .], your scowl (is) a [cl]oud,
+
+20'. [... ša₂ i-ša₂-ri tu]-ka#-ni iš-de-šu₂
+#tr.en: [. . . the right]eous, you secure his position.
+
+$ single ruling
+
+21'. [be-lu₄ ... ana? še?-e-ṭi id]-ka ri-i-bi
+#tr.en: [O lord, . . . to the negligent(?)], your [strength (lit. arm)] (is) an earthquake,
+
+22'. [... sur-qin-nu] tam-hu!
+#tr.en: [. . . (on account of his) offerings] they take [(him?)] up / [. . . (his) offerings] are taken up.
+#note: Verbs of negligence are often used in regard to cultic negligence specifically (see the suggested restoration in obv. 21ˊ and 23ˊ). And so this line, in contrast, likely has something to do with proper cultic etiquette. I see no other attestations of tamāḫu with surqinnu, whether the subject or the object. Perhaps we are to understand that the offerings of a positively evaluated person (i.e., righteous, just, etc.) are taken up as in received by the gods(?), a sense for which I find no precedence. Alternatively, perhaps it is on account of his offering that the gods(?) "take up" (tamḫū as an active stative) the offerent in the sense of providing assistance or leading that person in the proper way to go (see CAD T, 108 for the latter sense). Of course, the fully restored line may render both suggestions moot. 
+
+$ single ruling
+
+23'. [{d}NA₃ ... ana? še?]-e-ṭi id-ka ri#-i-bi
+#tr.en: [Nabu, . . . to the neg]ligent(?), your strength (lit. arm) (is) an earthquake.
+#note: The small fragment K.18434 restores part of this line and the following three lines.
+
+24'. [...] sur#-qin-nu tam-hu#
+#tr.en: [. . . (on account of his)] offerings they take [(him?)] up / [. . . (his)] offerings are taken up.
+
+$ single ruling
+
+25'. [be-lu₄ ...] re#?-hu-um ša₂-ma-mi
+#tr.en: [O lord, . . .] who inseminates the heavens,
+#note: What I am reading as a RE is only partially preserved in K.18434. What is there is congruent with RE. See further the note on obv. 27ˊ below.
+
+
+26'. [... x x sur-qin-ni] nak#-mur!(MIR) iš#-[di]-hu#
+#tr.en: [. . . offerings], (his) pr[of]it is piled up.
+#note: My reading nak-mur! attempts to solve two problems recognized in von Soden's reading (1971: 50-51): nagmir išdiḫu, "fülle auf den Gewinn!" First, nagmuru, is typically not positive. Though it can mean "to be fully assembled" with reference to a house or a family and "to be filled up" with reference to a measure (see CDA, 89; AHw, 278), these meanings are poorly attested. Perhaps von Soden's reading of the previous two signs as qin-ni, "family," influenced his understanding. Still, nagmir, a masculine singular imperative, is never transitive, as von Soden himself notes (1971: 62). So his translation "fülle up" does not do proper justice to the passive voice of the N-stem, which he seems to admit by putting those two words in italics in his translation. (Note that von Soden did not book the present line in his entry for gamāru in the first volume of AHw, published in 1985.) Now that we know the preceding word is sur-qin-ni, "offering," it makes sense to suggest a form of kamāru, "to heap up," for what follows. Kamāru is sometimes used of offerings and property (see CAD K, 113), making it  contexually more appropriate. But the form nakmir does not obviate the problem of the passive voice. Therfore, I suggest an emendation to nakmur, a predicative. The two syllables /mir/ and /mur/ sound so similar and the two signs MIR and MUR do not look so different from one another graphically that it is beyond the realm of possibility that a scribe could have made the accidental exchange (for one reason or the other). One might object that this requires the same mistake twice (i.e., also in obv. 28ˊ). But that only assumes that the scribe went back to his exemplar to copy those lines when he could have much more easily copied the previous and the present lines on his own tablet onto the next two lines with the exchange of the deity's epithet. Thus, he could have copied his own error into the next couplet.
+
+$ single ruling
+
+27'. [{d}NA₃ ...] re#?-hu!-um ša₂-ma-mi
+#tr.en: [Nabu, . . .] who inseminates the heavens,
+#note: Von Soden reports that the second sign, ḪU, has two horizontals. He takes the sign before it as either a RI or a ḪU (1971: 62). Brünnow's copy shows an abraded RI. As "inseminating the heavens" is a known mytheme (CAD R, 253), I tentatively go with that reading.
+
+28'. [...] x# x# sur-qin-ni nak-mur!(MIR) iš-di-hu
+#tr.en: [. . .] . . offerings, (his) profit is piled up.
+
+$ single ruling
+
+29'. [be-lu₄] reš-ti-i nu-uh a-na sur-ri
+#tr.en: [O lord], pre-eminent one, be calm right away! 
+
+30'. [pa?]-nu#?-ka lip-ša₂-ha ri-ši ti-ra-a-ni
+#tr.en: May your [fa]ce(?) relax, have mercy!
+
+$ single ruling
+
+31'. [{d}]NA₃# reš-ti-i nu-uh a-na sur-ri
+#tr.en: Nabu, pre-eminent one, be calm right away! 
+
+32'. [pa?-nu?]-ka lip-ša₂-ha ri-ši ti-ra-a-ni
+#tr.en: May your [face](?) relax, have mercy!
+
+$ single ruling
+
+33'. be#-[lu₄] pal-ku-u₂ muk-kal-li e-še-eš-tu₄
+#tr.en: O lo[rd], wise one, scholar of . . .
+#note: The word ešeštu is a hapax legomenon; its meaning is still unknown (see CAD E, 363 and CDA, 82). I wonder if it could be connected in some way with the lexeme uššušu, which seems to be some part of a reed (CAD U/W, 325).
+
+34'. rap-[ša₂] uz-ni a-ši-ši šu-ka-a-mu
+#tr.en: Int[ell]igent one, who fully comprehends the scribal art.
+
+$ single ruling
+
+35'. {d}NA₃ pal#-ku-u₂ muk-kal-li e-še-eš-tu₄
+#tr.en: O lord, wise one, scholar of . . .
+
+36'. rap-ša₂ uz-ni a-ši-ši šu-ka-a-mu
+#tr.en: Intelligent one, who fully comprehends the scribal art.
+
+$ single ruling
+
+37'. be-lu₄ šal-ba-ba ta-as-sa-bu-us UGU IR₃-ka
+#tr.en: O lord, wise one, you have become angry with your servant,
+#note: After the hymnic material ends, the very first line describes the deity's anger against the protagonist of the poem.
+
+38'. ṣe-riš it-tab-šu-u₂ im-ṭu-u₂ ta-ne₂-hu
+#tr.en: Loses (and) distress have repeatedly beset him.
+#note: For the form and meanig of ṣēriš, see the comments in von Soden 1971: 63. The losses and distress are the evidence of divine anger; they are first experientially. But in this narration of the events, the sequence is inverted, as would be required theologically: divine anger begets human suffering.
+
+$ single ruling
+
+39'. {d}NA₃ šal-ba-ba ta-as-sa-bu-us UGU IR₃-ka#
+#tr.en: Nabu, wise one, you have become angry with your servant,
+
+40'. ṣe-riš it-tab-šu-u₂ im-ṭu-u₂ ta#-[ne₂-hu]
+#tr.en: Loses (and) dist[ress] have repeatedly beset him.
+#note: Note this line describes the protagonist's material and emotional suffering. I argue that 44ˊ describes his social suffering (i.e., loss of position due to lies or conspiracies).
+
+$ single ruling
+
+41'. ina gi-piš e-de-e na-di-ma a-gu-u₂ e-liš it-tak#-[kip]
+#tr.en: He was thrown into the swell of the flood; the waves repeatedly cras[hed] against him,
+
+42'. kib-ri ru-uq-šu ne₂-si-iš na-ba-lu#
+#tr.en: The bank was distant from him; firm ground too far off.
+#note: Lit. "Firm ground is far off from him." I think this couplet is intended to be a metaphor: the protagonist's suffering is likened to a drowning person who has little hope of reaching safety.
+
+$ single ruling
+
+43'. taš!(IB)-li ina qe₂-e šib-qi₂ a-na pa-ra-ʾ a-le-e-mu
+#tr.en: You "splashed" (lit. tossed) (him) into a web of conspiracies in order to cut off the (life of the) honored one (i.e., the protagonist),
+#note: The line as it is preserved in our only witness is problematic. Von Soden (and subsequent translators) have rendered the first half of the phrase as "Er verging [ibli from balû] schier im Garn der Nachstellungen." He read the final signs as a-na pa-ra-ʾ a-le-e-mu, "das [scil. referring to qû] einen Gewaltigen 'abschneiden' konnte" (1971: 53). He notes on p. 61 how strange it is that qû is the logical subject of the cutting action. The signs a-le-e-mu are to be understood as a writing of alīmu/alēmu, "honored person." But it seems he has read the signs twice, which is the only way I can account for his "konnte." In AHw (published fourteen years later), he renders the phrase "um abzuschneiden den G[ewichtig].en" (36, s.v. alī/ēmu), which I have adopted. Most translators since von Soden's edition have disagreed with this reading of the last phrase, rendering the line something like the following: "He came to an end in a web of lies/conspiracies/falsehoods, impossible(?) or unwilling (lēmu) to cut through (pa-ra-ʾa-a)" (see CAD L, 126; CAD Q, 287; CAD Š/2, 382; Seux 1976: 182; Foster 2005: 622). These translators recognize qû as the logical *object* of the cutting action (which I think is sensible, see below); but, I think there are syntactical and semantic problems with their understanding of lēmu, which means "unwilling" not "impossible," as a descriptor of the web. If I were to follow their reading, I would suggest we take lēmu as a substantivized adjectival form, "unwilling one, disobedient one," which refers to the protagonist himself as the object of cutting rather than (simply, see below) the web; thus, I would render the phrase "in order to cut off the disobedient one." Previous translators have correctly recognized that parāʾu, "to cut through, to sever, to slit" (CAD P, 181) is an appropriate verb to describe action directed at a qû, "string, web" (see CAD Q, 181 for various attestations). But the verb is also used metaphorically with napištu to describe someone killing another. In one such case, qû functions as a simile: napšātēšunu uparriʾ qûʾiš, "I cut off their lives / slit their throats like a thread" (cited CAD P, 181). Thus, one could argue that the poet intends to activate a complex imagery: the protagonist finds himself in a (metaphorical) web (a social context) of treachery and conspiracies so that were the web cut, an appropriate thing to do to it, that cutting would also result in the cutting off of the life of the "honored one" (alēmu), that is, the protagonist himself who was once a highly positioned man. The imagery of the web here results in something of a mixed metaphor, but it is congruent with the protagonist's immobility as described in the next line. As the survey above indicates, all previous readings of the line agree on the initial verb, ibli from balû. But this verb yields somewhat unexpected imagery that does not quite match the context of a man drowning and, as in the next line, stuck in muck and mire in need of rescuing. It is true that balû is used to describe the ending of a life, which is contextually sensible, but it is also used literally to describe the extinguishing of a flame or breaking a fever (CAD B, 72-74), which seems at odds with the water imagery here. (Of course, perhaps this is just another case of a mixed metaphor.) Also, the use of balû and then parāʾu seems redundant if the cutting does not simply refer to the web but also to the protagonist's life (as argued above). I suspect therefore that the line has been disrupted by a mistake. If we read the initial sign as UR instead of IB then we can understand the initial verb as tašli, "you cast (him) off" or "you tossed (him) away" (from šalû II in CDA, 352 and šalû A in CAD Š/1, 272). Although this root typically or mostly uses a u-theme vowel, it is also attested with an i-theme vowel (see CAD Š/1, 272 for attestations). Šalû is used to describe splashing or sprinkling of water, which I think fits the contextual imagery much better. It also explains the protagonist's suffering as due to divine anger and direct divine action, thus advancing the (emotional action of the second person verb in 38ˊ, the first line of its couplet (38ˊ-39ˊ) as here. (One might suggest that the deity's action to toss the protagonist into a web rather than allow him to drown in the water is a small mercy until one realizes the purpose of the action was to end his life.)  Thus, this line compliments the material and emotional suffering of line 40ˊ above by adding a social dimension to the protagonist's plight.
+
+44'. it-ta-til ina na-ri-iṭ-ṭu ka-li ina ru-šum-du!
+#tr.en: He lay in the marsh, stuck in the morass.
+#note: Nāriṭu also means "difficulties, troubles" (CAD N/1, 353), which properly describes the protagonist's situation as described by šibqī in the previous line.
+
+$ single ruling
+
+45'. a-hu-uz ŠU-MIN-su la im-me-es-su IR₃-ka
+#tr.en: Take hold of his hands that your servant is not washed away,
+
+46'. šu-ut-bi šer₃-tuš šu-liš i-na na-ri-iṭ-ṭu#
+#tr.en: Remove his guilt; lift him from the marsh!
+
+$ single ruling
+
+47'. {d}NA₃ a-hu-uz ŠU-MIN-su la im-me-es-su IR₃-ka#
+#tr.en: O Nabu, take hold of his hands that your servant is not washed away,
+
+48'. šu-ut-bi šer₃-tuš šu-liš ina na-ri-iṭ-[ṭu]
+#tr.en: Remove his guilt; lift him from the mar[sh]!
+
+$ single ruling
+
+49'. ki#-ma le-e ša₂ ina nap-la!-qu pal-qu i-ram#!-mu#!-um ši-ig#-[miš]
+#tr.en: Like a bull being slaughtered with a butcher's knife, he groans lou[dly],
+
+50'. ina#! pi#!-i# le#!-ʾ-u₂ da-ab-ru na-di-ma u₂-kan-na-[...]
+#tr.en: He is cast into the mouth of the powerful (and) the aggressive, he [. . .].
+
+$ single ruling
+
+@column 2
+
+$ about 6 lines missing
+
+1'. KI TU x#? x#? [...]-ši#?
+#tr.en: . . . [. . .] ,
+#note: The last sign may be [P]I (von Soden 1971: 52).
+ 
+2'. na-si-ka-ku lu-ub-ba-bil lu-x#?-[...]
+#tr.en: I am thrown down. May I be borne up. May I [. . .].
+#note: CAD N/2, 27 suggests the second verb could be rendered "let me be forgiven(?)."
+
+$ single ruling
+
+3'. ki-i na-ak-mi šu-ṣu-u₂ lu-šer₃ a-[...]
+#tr.en: As a nakmu(?) is expelled, let me proceed . . [. . .],
+#note: For a recent discussion of the meaning of the obscure nakmu with literature, see Oshima 2014: 304-305.
+
+4'. ki-i ṭal-ṭal-ti lut-tag#!-giš! i-na ka#-[ma-a-ti]
+#tr.en: Like a fugitive, let me wander about in the open [country].
+#note: For a discussion of the difficult term ṭalṭaltu, see von Soden 1971: 64. If this is a term based on an Aramaic loan (in addition to von Soden's discussion, see CAD Ṭ, 45, "fugitive woman"), then the text most likely is to be dated to the first millennium.
+
+$ single ruling
+
+5'. an-nam mi-na-a a-mu-u₂ i-zi-za [...]
+#tr.en: Thus(?), why does a one-handed person stand [. . .],
+#note: Foster renders the line: "Indeed(?), why should a one-handed man(?) stand ahead of me? (2005: 622), with reference to lines 59-61 in the Great Ishtar Prayer (see his p. 603).
+
+6'. id-da-a a-šu-uš-tu₄ ni-is-sa-tu₄# [...]
+#tr.en: He brings about grief (and) lamentation [. . .].
+
+$ single ruling
+
+7'. be-lu₄ at-ta-ma tam-bi [...]
+#tr.en: You (are) the lord. You called [. . .],
+
+8'. qi₂-bi-tuk-ka ša₃-sur-ra ga!-[...]
+#tr.en: At your command [. . .] the womb.
+
+$ single ruling
+
+9'. {d}NA₃ at-ta-ma tam-bi [...]
+#tr.en: You (are) the lord. You called [. . .]
+
+10'. qi₂-bi-tuk-ka ša₃-sur-ra [ga-...]
+#tr.en: At your command [. . .] the womb.
+
+$ single ruling
+
+11'. i-na an-nam a-bi x#? [...]
+#tr.en: In the "yes," my father . [. . .]
+#note: Foster's idea for the meaning of this line, "I take this to be the initial acknowledgment of paternity after birth of the child" (2005: 623n. 1) seems reasonable. But, without further context, it must remain speculative.
+
+12'. an-nam AD-MEŠ-šu₂ AN#? [...]
+#tr.en: The "yes" of his father . . [. . .]
+
+$ (single ruling ?)
+
+13'. ul i-nu [...]
+#tr.en: Not . . [. . .],
+
+14'. i-ša₂-bi i-TAK-[...]
+#tr.en: He trembles . . [. . .].
+#note: See von Soden 1971: 65 for the form of the verb.
+
+$ single ruling
+
+15'. i-la a-bi-i ka-a-ti mar-ṣi-iš x# [...]
+#tr.en: [. . .] to you, (my personal) god, my father, sadly,
+#note: Or, "bitterly." It is not entirely clear to me if ilu and abu are in apposition or function differently within the line; likewise, whether or not one or both refers to the same deity as kâti, "to you," who must be Nabû. 
+
+16'. gi-na-a mas-da-ri iš-ta-ra-niš i-qal
+#tr.en: He attends to his goddess regularly, always!
+
+$ single ruling
+
+17'. ti-le-e₂-a-um be!-lu₄! in-ni-ti pa-[aš-qat]
+#tr.en: O most competent lord, my(?)/(his) sin is se[vere],
+#note: Von Soden restores a third person feminine predicative here, passat, and in the next line, annat (1971: 52). I do not understand this decision since both forms would have the protagonist stating here that his sin is erased and forgiven (note how Foster 2005: 623 renders von Soden's reading). It makes much better sense contextually that the protagonist simply uses imperatives to move the deity to take action to forgive his sins. But, none of the verbs typically used for such statements (e.g., paṭāru, pasāsu, pašāḫu, pašāru) have an imperative that begins with pa-. Thus, one might look for something that will describe the sin. Pašqu, "narrow, difficult, severe," fits the bill in this line. It is merely a guess. But it makes better sense of the line than von Soden's restoration. As von Soden notes, if the ending on innittu is in fact a first person singular pronominal suffix, then the protagonist speaks in the first person voice here (1971: 65).
+
+18'. ti-me₂-e-šu₂ gil₂-la-tu# [la] ṭa-ab-tu₂ an-[ni?]
+#tr.en: O forgiving one, [my(?)]/(his) fa[ult] (is) a [wi]cked sacrilege.
+#note: Restoring annī here provides a nice complement to innittī in the previous line both semantically and in terms of its position within the line. 
+
+$ single ruling
+
+19'. ti-le-e₂-[a-um {d}NA₃ in]-ni#-ti pa-[aš-qat]
+#tr.en: O most comp[etent Nabu], my(?)/(his) [s]in is se[vere],
+
+20'. ti-me₂#-[e-šu₂ gil₂-la-tu la ṭa]-ab#-tu₂ an-[ni?]
+#tr.en: O forgivi[ng one, my(?)]/(his) fa[ult] (is) [a wick]ed [sacrilege].
+
+$ single ruling
+
+21'. i-na [...]-ku? pa-[...]
+#tr.en: In [. . .] . . . [. . .]
+#note: Perhaps read the KU as ŠU or KI (von Soden 1971: 54).
+
+22'. i-na [...] ri-bi ma-na-a x#? [...]
+#tr.en: In [. . .] . . . [. . .]
+
+$ single ruling
+
+23'. x#? [...] ŠA₃? ku-u₂ me-e-šu₂ a-ra-[an-šu]
+#tr.en: . . [. . .] . . . , disregard [his] si[n],
+#note: The ŠA₃ may be RU (von Soden 1971: 54).
+
+24'. [...]-i# še-tu₄ uk-kiš hi-[ṭi-su]
+#tr.en: [. . .] (his) negligence, expel [his] misd[eed].
+
+$ single ruling
+
+25'. [e-la] ka-a-ti be-lu₄ ul ib-ba-aš₂-[ši re-e-mu]
+#tr.en: [Apart from] you, O lord, there i[s] no [mercy],
+
+26'. [ina] ba#-lu-uk in-ni-ti gil₂-la-ti [ul ip-paṭ-ṭar]
+#tr.en: [With]out you, my sin, my sacrilege [is not forgiven].
+#note: One wonders if the restored verb should be third person plural, though it would be a tight squeeze in the available space for so many signs, ul ip-paṭ-ṭa-ru. The present text follows von Soden's restoration tentatively (1971: 54).
+
+$ single ruling
+
+27'. [e-la] ka-a-ti {d}NA₃ ul ib-ba-aš₂#-[ši re-e-mu]
+#tr.en: [Apart from] you, Nabu, there i[s] no [mercy],
+
+28'. [ina ba]-lu-uk in-ni-ti gil₂-la-ti# [ul ip-paṭ-ṭar]
+#tr.en: [Witho]ut you, my sin, my sacrilege [is not forgiven].
+
+$ single ruling
+
+29'. [i-nu]-un#!?-ma IR₃-ka ta-as-sa-nab-[bu-us]
+#tr.en: Your servant [has si]nned(?), and you are perpetually ang[ry] (at him),
+#note: See von Soden's comments about the restoration at the head of the line (1971: 65).
+
+30'. [ina x]-x#-ti-ka ta-at-ta-di du-[...]
+#tr.en: [In] your [. . .] you have cast (him?) [. . .].
+#note: For possible readings of the traces of a sign before TI, see von Soden 1971: 65. Brünnow's copy has a clear IB.
+
+$ single ruling
+
+31'. [x x] ša₂-man hal-lu-la-a-a DINGIR lem!-ni ta-LU?-[...]
+#tr.en: [. . .] . . . of the hallulaya-demon, an evil deity, . . [. . .],
+#note: Possibly render ša₂-man as "oil of" (so von Soden 1971: 55, 65) but I am not so sure this would be sensible with what I think is most likely the name for a demon that follows, though I see no other viable alternative as the text has come to us.
+
+32'. [x x]-x#-la lah₃-mi DU{+ku} ta-bar-ri [...]
+#tr.en: [. . .] . . the laḫmu-monster goes, you see [. . .].
+
+$ single ruling
+
+33'. [x x]-x# uš-ha-ri-ir i-laq-qe₂ x# [...]
+#tr.en: [. . .] he grew numb with fear, he was taking [. . .],
+
+34'. [x x] i#-ta-šar ig-da-mar [...]
+#tr.en: [. . .] he cowered(?), he used up [. . .].
+#note: Von Soden derives the first verb, apparently, from ašāru, "to muster, to review, to provide food" (see CAD A/2, 420). Without more context, I do not see any good sense in this. Might it be better to consider (w)ašāru (see CAD A/2, 422 and compare AHw, 1484), "to be humble" or "to sink down"? If so, the present context would be the first finite verb form attested for the root. Note the use of gamāru in a lament to Nabu, STT 65 (obv. 13 and rev. 9), in the context of a person feeling at the end of their rope, their life-force completely spent.
+
+$ single ruling
+
+35'. [x x]-x#-šu₂ ir!-ra-qu kab-ta-ta-[šu? ...]
+#tr.en: His [. . .] hides/runs away, [his(?)] liver [. . .],
+
+36'. [x x x]-ta-GIR-šu₂ ih-ši-ih [...]
+#tr.en: His [. . .], he desired [. . .].
+
+$ single ruling
+
+37'. [x x] x# ig-ga-mir x# [...]
+#tr.en: [. . .], . . . was used up,
+
+38'. [x x x] x# ip!-pa-ṭir [...]
+#tr.en: [. . .] . [. . .] was released.
+
+$ single ruling
+
+@reverse
+
+@column 1
+
+1. ši-in-<na?>-šu₂ IB-[x (x)] x#-pa-ri-ih# a-a-ba#?-[šu?]
+#tr.en: [His?] enemy . . [. . .] his tooth(?), [. . .],
+#note: The BA near the end of the line may be NA (von Soden 1971: 54 but notes that ayyābu is hardly sensible here, p. 66). Von Soden takes the BA/NA as the last sign in the line. Brünnow's copy suggests there may be room for one more sign before the edge. A third person pronominal suffix would make good sense here. I suggest for a similar reason (i.e., sense) that the unknown šinšu may be a corruption for šinnašu, "his tooth." (Note that the next line likewise deals with the top parts of the body.) If so, I wonder if what follows could be a verb derived from the obscure pašānu, which CDA suggests might mean "to yank, pull violently" (269; compare AHw, 841, which suggests "verhüllen," citing only a line in the Series of the Fox). Obviously, this is quite speculative; see von Soden 1971: 66 for other possibilities. One hopes a duplicate might someday remove the lacuna that motivates such guesses.
+
+2. mut-qu pu-ul#-hu-šu₂ ik-ta-bit UGU-nu-šu₂
+#tr.en: Headlice—its horror—weighed heavily upon him.
+#note: As von Soden notes, mutqu, which is not well-attested (CAD M/2, 302), may actually mean something worse than simply headlice (1971: 66). As it is used in Šumma Alu Tablet 58: 57ˊ (Freedman 2017: 114), mutqu designates something that can seize the entire country.
+
+$ single ruling
+
+3. i-da-at lum-ni!(NU) ra?-pa?-du <u₂?> u₂-šab-ra ub-bu-ṭu₂#?
+#tr.en: Signs of evil reveal rapadu-disease (i.e., staggering?) (and) famine(?),
+#note: This line presents many obscurities and difficulties (see CAD B, 107 and von Soden's various comments and suggestions,1971: 66). Von Soden translates the line "Das Folgenlassen böser Konstellation läßt es flimmern vor dem Gesicht" (55). He reads RA-PA as ŠUR₂ (1971: 66). I find the resulting šurdû difficult to understand in this context. I have tentatively taken up CAD's suggestion to read u₂-šab-ra ub/p-b/pu-x# (B, 107) instead of von Soden's u₂-šab-ra-ar₂ bu-n[a?] (1971: 54, 66) and then have connected the feminine plural noun at the line's head as subject to the resulting feminine plural form of barû, ušabrâ. The disease rapādu (staggering?) is attested in various omens (see CAD R, 147) and thus makes some contextual sense here (though this requires a conjectured dittography of U₂, as von Soden already notes). As for the final word, it is likely a noun referring to something else revealed by the signs; I can only make an educated guess. Von Soden states that during his collation he could only see a single horizontal wedge of the final sign. A ṬU₂ would be congruent with this observation, thus suggesting ubbuṭu as a viable restoration, which frequently occurs in omens and is often spelled with a ṬU₂ (U/W, 13-14). Despite the appearance of plausibility, all of this must remain tentative.
+
+4. a-di ma-ti ka#-la šat-ti gi-na-a lu-uq#-qu
+#tr.en: How long?! Must I constantly wait all year!?
+#note: I think this interjection of a line provides some support for taking the previous line as centered on the revelation of very bad omens. The protagonist has been pushed to the breaking point, it seems, and erupts with protest. It is noteworthy that as soon as he does this he immediately turns to praise the deity's anger in the next line.
+
+$ single ruling
+
+5. lud-lul! be-lu₄ na-al-ba-bu-uk e-ze-zu#
+#tr.en: I will praise the lord, your anger is furious,
+#note: I wonder if the scribe uses ezēzu (the infinitive) here instead of the adjectival ezzu to preserve the troche at the end of the line.
+
+6. [x] x# [ra]-šub#-ba-tuk a-na AN{+e} ah-ra-tiš₂
+#tr.en: Your [terr]ifying appearance [. .] . to the heavens forever!
+
+$ single ruling
+
+7. [lud-lul {d}NA₃] na-al-ba-bu-uk e-ze-zu#
+#tr.en: [I will praise Nabu], your anger is furious,
+
+8. [... ra]-šub#-ba-tuk a-na AN{+e} ah-ra-[tiš₂]
+#tr.en: Your [terr]ifying appearance [. . .] to the heavens forever!
+
+$ single ruling
+
+9. [i?-li? kim?]-ti-ia e-pir za-ka-a e-pir is-qu-qu#
+#tr.en: [The god(?) (ghost?) of] my [fam]ily(?) is provisioned with filtered (beer; lit. clear), provisioned with flour,
+#note: Foster (2005: 626) suggests restoring the head of the line to [kim]tīya, "my family," which is a reasonable suggestion, though there may be room for more than one or two signs in the lacuna. With Foster (2005: 624n. 1), I wonder if this line might describe an offering to a dead member of the family. If so, perhaps we should include [e-ṭe-em] before [kim]tīya. One might also simply consider this and the next line to refer to the family's personal god and goddess. Thus, perhaps restore [i-li ki-im]-ti-ia. Collation is required to determine the size of the gap. 
+
+10. [{d}iš-tar] ab-be₂-e-a ki-šub-bu-ša₂ bi-lat kas₃-pi#
+#tr.en: [The goddess(?)] of my fathers, her fallow field is (worth) a talent of silver. 
+#note: Whatever the substantive in the gap, I expect it to be feminine, both to complete the parallelism with the previous line and to provide the appropriate antecedant to the pronominal suffix on kišubbû. If this line references the family's personal goddess, then we should restore [{d}iš-tar]. Is the supplicant declaring something about his own wealth in making the claims here about provisioning and land? If so, is the supplicant doing it to convince Nabu that he (i.e., the supplicant) is in a good position economically to do something significant for Nabu in exchange for the end of his suffering?
+
+$ single ruling
+
+11. [pe?-tu?-u₂?] ku-nu-uk-ka sa-an-tak-ki <ki?>-na-a-ti ša-mu-šu₂ lu qi-i-tu₂# 
+#tr.en: [The one who opens(?)] the sealed document (and) cuneiform (lit. wedges), truly(?) may his decreeing be determinative (lit. the end (of the matter)),
+#note: As von Soden notes (1971: 66), the line is obscure. He reads -ku-nu-uk-ka at the head of the line, "in deinem [. . .]" (1971: 55). Instead, I wonder if we have a reference to a seal, an impression of a seal, or a sealed tablet (all meanings of kunukku; see CDA, 167) at the head of the line. If so, this raises the possibility of reading sa-an-tak-ki here (instead of von Soden's sa-an-tak, "stets"; 1971: 54-55) as a reference to cuneiform signs. Nabu was just invoked a few lines back. It would make sense to include a reference to writing and related items here. The suggested restoration runs with this idea, basing itself on a line in Marduk's Address to the Demons, in which Marduk is the one who pētû santakkī, "opens the wedges" (see Geller 2007: 155, excerpt 4, line 6). We might have a participle here, thus restore [pe-tu-u₂] or perhaps an imperative, [pe-ti]. Might there be some reference or appeal to Nabu using tablet/writing imagery to undo the protagonist's suffering through some kind of decree (see, e.g., CAD S, 150, where kēni appears with tikip santakkīka)? Foster takes ki-na-a-ti as "associates" (2005: 624). Von Soden thinks it likely that the form is adverbial, "stetig" (1971: 66 [tatsächlich, p. 55]; AHw, 494). Assuming a missing KI, I take <ki>-na-a-ti in the sense of "truly" or "justly" (CAD K, 384). Previous translators have read the sequence MU-ŠU₂ as mūšu, "night" (von Soden 1971: 54; Foster 2005: 624). Although this is a possible othography for the word in this text (see rev. i 9ˊ below), ŠU₂ is typically used to render a pronominal suffix. We might therefore read the MU and ŠU₂ with the previous ŠA, resulting in an infinitive from šâmu, "to fate, to decree." If so, that infinitive could be the subject of the phrase with lū qītu forming the predicate. (Von Soden considers the possibility that we read šamūšu, "the second string (of a lyre)"; 1971: 66-67, though he thinks it unlikely.) The finality of a decree here conforms well with the next line's use of dāriš. The resolution proposed here for the meaning of the line is speculative and tentative. Without a duplicate, it can not be otherwise.
+
+12. [x x] lu-ma-ʾ-i-ru lu-ši-ra da-a-a-riš#
+#tr.en: May [(they) . . .] give orders (so that) I may go aright (i.e., be successful) forever.
+#note: The form of the first verb is ambiguous. As von Soden notes, it may be a Neo-Babylonian form (lumaʾʾirū) of the expected jussive, limaʾʾirū; less likely, in his opinion, it is a first person cohortative (1971: 67). If it is the latter, we might posit that it is in a subordinate clause. Of course, full restoration of the context and/or a duplicate is needed to adjudicate the matter. In any case, the use of the verb here conforms well with the idea of decreeing in the previous line.
+
+$ single ruling
+
+13. [x x] x#-ni hu-UB-šu₂ za-ma-ni u₂-šam-qat#? 
+#tr.en: [. . .] . . . he makes the enemies fall,
+#note: For reflections on the various possibilities for ḫub/pšu, see von Soden 1971: 67. Could the word be ḫupšu, "rabble," which is used of soldiers (CDA, 121) and people in revolt (CAD Ḫ, 242)?
+
+14. [x x]-x#-ni ul i-ne-ʾ-i i-na-as-sa-hu šeh-ri#?
+#tr.en: He cannot withdraw/turn back(?) [. . .], they pull out the cords(?).
+#note: I derive the first verb from nêʾu (see CAD N/2, 199), though its meaning here is not certain. The final noun, indeed, its reading, is not certain. I tentatively follow von Soden's understanding (1971: 67; see likewise CAD Š/2, 416).
+
+$ single ruling
+
+15. [...] x# ki-i la lib₃-bi DINGIR im-nu-[u₂]
+#tr.en: [. . .] he/they recite[d] against the will of the gods, 
+#note: See von Soden 1971: 67 for various suggestions for reading the broken sign before KI.
+
+16. [...]-SU#? bit-re-e u₂-nam-ga-ru kar-ṣi!?(RA)
+#tr.en: [. . .] outstanding/enormous . . . they denounced calumnies(?).
+#note: Perhaps read [Z]U? (von Soden 1971: 56). Without the full context and a better sense of the meaning of the obscure karra, the line remains difficult (von Soden 1971: 67, CAD N/2, 313). I suggest another possibility here. Nugguru is attested only three times (see CAD N/2, 313, which cites them all). Two of the three contexts show the verb used in a context with either karāṣu (Ludlul I 86, 88) or its nominal derivative, karṣī (ARM 5 34: 13, 15). It seems very likely to me, given this information, that the final word in this context should be emended to karṣī.
+
+$ single ruling
+
+17. [...]-uš-šu₂ qe₂-e a-gar-ru-ti ṭa-ab-ti
+#tr.en: In his [. . .] . . . good/sweet . . . 
+#note: As von Soden notes (1971: 56, 67), perhaps we should read ke-e and a-ša₂-ru-ti, which, like a-gar-ru-ti, is unknown. 
+
+18. [...] NE#! IM hu-us ša₂ ša₂ [...] x#-ti?
+#tr.en: [. . .] . . . [. . .] . .
+#note: I see nothing of the TI in Brünnow's copy. And von Soden (1971: 56) has not marked it as collated (!). I wonder if it is simply a mistake in his transliteration from the previous line. Collation is required.
+
+$ single ruling
+
+19. [...]-a-ša₂ šu-bat nu-uh-ši#
+#tr.en: [. . .] her . . . , a dwelling of abundance,
+
+20. [...]-hu ṣi-in-du
+#tr.en: [. . .] binding.
+
+$ single ruling
+
+21. [...] KU#? 2(diš)-KAM šu-nu la-x# [...]
+#tr.en: [. . .] . . second, they . . . [. . .],
+#note: The KU may be KI (von Soden 1971: 56). One might also consider šu-bat instead of šu-nu (von Soden 1971: 67).
+
+22. [...]-u₂ x# [...]
+#tr.en: [. . .] . . . [. . .].
+
+$ 4 lines missing
+
+1'. li-x#-[...]
+#tr.en: May(?) [. . .],
+
+2'. kin-gal-lu TI#? [...]
+#tr.en: The leader of the assembly . [. . .].
+#note: The TI may be AN (von Soden 1971: 56). Kingallu is taken as an epithet for Nabu (CAD K, 385), but this is the only attestation cited.
+ 
+$ single ruling
+
+3'. uṣ-ṣi-iṣ-ma AN ZA [...]
+#tr.en: He interrogated . . [. . .]
+
+4'. ul [...]
+#tr.en: [. . .] not [. . .],
+#note: The line is indented.
+
+5'. {d}am-na ina bi-ri [...]
+#tr.en: Amna [. . .] through divination.
+
+$ single ruling
+
+6'. za-qi-qu ina šat mu#-[ši ...]
+#tr.en: Zaqiqu during the nig[ht . . .],
+
+7'. zu-un-zu-na-[tu? ...]
+#tr.en: A sho[e(?) . . .].
+
+$ single ruling
+
+8'. {d}nin-gun₃-nu a-[...]
+#tr.en: Ningunnu . [. . .],
+
+9'. a-na im-mu u mu-šu₂ [...]
+#tr.en: For day and night [. . .].
+
+$ single ruling
+
+10'. a-na ka-ša₂-du ME? [...]
+#tr.en: To attain . [. . .],
+
+11'. i-na bu-ul {d}ŠAKAN# [...]
+#tr.en: Among the livestock of Shakan [. . .].
+
+$ single ruling
+
+12'. du-uš-mu-u₂-šu₂ i-[...]
+#tr.en: His house-born slave [. . .],
+
+13'. ab-du-u₂-šu₂ ip-pal [...]
+#tr.en: His servant answers [. . .].
+#note: This line suggests there is some dialogue in the text. 
+
+$ single ruling
+
+14'. ih-ti-ṭam-ma [...]
+#tr.en: He investigated and [. . .]
+
+15'. na-an-gul lib₃-ba-[šu₂ ...]
+#tr.en: [His] heart was glowing [. . .]
+
+$ single ruling
+
+16'. uṣ-ṣar-ri-ip ka-[bat?-ta?-šu? ...]
+#tr.en: [His] mi[nd(?)] (lit. [his] li[ver]) constantly burned with pain [. . .],
+#note: Given the context, it seems likely to me that we should restore kabattu here.
+
+17'. di-ma-šu₂ IK-ta-[...]
+#tr.en: His tears . . [. . .].
+
+$ single ruling
+
+18'. ma-ṣi be-li₂ x# [...]
+#tr.en: It is enough, my lord [. . .],
+
+19'. a-paq-qid TI-MEŠ [...]
+#tr.en: I entrust the living [. . .].
+
+$ single ruling
+
+20'. tu-ša₂-ma za-ma-nu-u₂ [...]
+#tr.en: [. . .] as though the enemy,
+
+21'. u₃ mu-de-e al-ka-[ka-ti ...]
+#tr.en: And who knows the way[s . . .].
+
+$ single ruling
+
+22'. a-bar-ša₂ e₂-zi#!-[da ...]
+#tr.en: Truly, Ezi[da . . .],
+
+23'. rag-ga la i#!?-[ša₂-ra ...]
+#tr.en: [. . .] the wicked, the unj[ust].
+
+$ single ruling
+
+24'. el im-[(x)] x#? [...]
+#tr.en: Over . [.] . [. . .],
+
+25'. min₃-su [(x) (x)] HU#? [...]
+#tr.en: Why [. . .] . [. . .]?
+
+$ single ruling
+
+26'. ša₂ rag-gi! u x# [...]
+#tr.en: [. . .] of the wicked and [. . .],
+
+27'. a?-pi!?-lu₄ x# [...]
+#tr.en: The "answerer" [. . .].
+#note: Perhaps we have a reference here to a form of intuitive divination.
+
+$ single ruling
+
+28'. [(x)] x#? [...]
+#note: Von Soden (1971: 58) thinks there may be two lines missing after this line and then he inserts the lines on K.11373, his manuscript A₂, which contains the lines he numbers 168-172.
+
+$ (probably 2 lines missing)
+
+@column 2
+
+1. pu-ṭur qu-un!-nab-ra-šu hi-pi il-lu-[ur-taš]
+#tr.en: Release his fetters; break [his] manacl[es],
+#note: Illurtu, aside from lexical lists (see CAD I/J, 87), only occurs here, in Ludlul II, and in the great prayer to Marduk (see Oshima 2011: 347, line 61). Qunnabru only occurs here and Malku (see CAD Q, 306).
+
+2. a-na da-na-na i-ri-a-ti ba-šim du-u₂-ru#
+#tr.en: The rampart exists against the depths of winter.
+#note: See CDA, 78 s.v. eri(y)ātu for the rendering "depths of winter." According to CAD D, 194, dūru occurs in personal names in a transferred sense, e.g., Nabû-dūrī. Such usage may inform the present line, suggesting that the protagonist, in asking to be released from his current dilemma, is confident that Nabu as his rampart or fortress will protect him. See Foster's questions about this imagery and that in the following line (2005: 624n. 2).
+
+$ single ruling
+
+3. a-na kal ma-tu₄ um-ma-tu₄ u₂-šah-la-<la₂>-a ma-ni-tu₄#
+#tr.en: (Your) gentle breeze makes the summer heat cheerful for the whole land,
+#note: Von Soden cannot decide if ummâtu or mānitu is the subject of the verb. I think the imagery itself gives a fairly clear answer. See Foster 2005: 624 and Ludlul I 6; note also the use of šārtu, "wind," in a pleasant sense in STT 65, a lament to Nabu. It seems that the scribe has written two signs with a value /la/ by mistake, the more common one first (LA) and then the less common LA₂ second, which may have been the one on the tablet he was copying.
+
+4. še-e-ru re-ṣu-ti-ia šur-šu₂-ru hi-in-zur-ru meṣ-he-ri-ši-ṭi-[ib?]
+#tr.en: The dawn of my (divine) help (like) the shurshurru-fruit of(?) the apple tree, / It was [sweet] in (my) childhood,
+#note: Malku equates šuršurru with nurmû, "pomengranate" (CAD Š/3, 366). The lexica do not book a noun meṣḫeru; rather, the adverb meṣḫē/eriš (see CDA, 208, CAD M/2, 36), "in, during childhood." Perhaps we are to see a Sandhi-writing here (see obv. i 20ˊ above) and the last few signs formed the missing verb. The present restoration is my conjecture. (For the expression of longing for Nabu's presence since childhood, see STT 65, obv. 8; http://akkpm.org/P338383.html.) The lineation in this unit (lines 3-5) does not match the verse structure (likewise von Soden 1971: 69). The present line is too long, especially since the next line on the tablet, which is indented, belongs with it. It seems, therefore, that the poem in these three lines breaks its pattern of couplets here (and in lines 6-8 just below); instead, the poet has written a tercet, which the scribe has incorrectly copied over three lines. If the poetic line break is where I have suggested in my translation (/), we have a relatively rare case of enjambment in the final two lines of the tercet.
+
+5. mar-tam ma-ar#!?
+#tr.en: (but) is (now) bitter(?) (as) gall.
+#note: This line is indented. Von Soden does not give a reading or a description of the sign after MA. Brünnow's copy shows a horizontal attached to a vertical. I wonder if we can read the sign as the beginning of an AR (ŠI-RI), yielding "is bitter (as gall)," or the beginning of a LI, yielding "is full (with gall)." Collation is required before any reading can be secure. For the present, the former is my preference, especially in light of the good things in the previous line. Note, however, that the scribe writes the stative of marāru in line 6 just below as ma-a-[ar]. Should we expect consistency in matters orthographic? (Check von Soden's comments.)
+
+$ single ruling
+
+6. ah-ra-tiš₂ pi-is-nu-qiš lal₃-la-riš u₂-da-aš₂-šap#
+#tr.en: (What) forever (was) wretched, he makes as sweet as honey,
+#note: With Foster (2005: 624), I take the first part of the line to provide the implied object of the verb.
+
+7. a-la-mit-tu₄ u₂-he-en-ša₂ da-da-riš ma-a-[ar]
+#tr.en: (Even if) the green dates of a date palm are bitt[er] like stinkwort,
+#note: My translation follows the lead of CAD T, 37.
+
+8. ar-ka ta-ad-mi₃-iq-ša₂ da-mi₃-iq pe-er-ʾu nu-uh#!?-[hu?-uš?]
+#tr.en: Thereafter its first-rate dates will be pleasing, (its) offshoots granted [abundance(?)].
+#note: Like rev. ii 3-5, rev. ii 6-8 form a tercet. Unlike the previous tercet, the three poetic lines are properly presented on as many lines on the tablet. The restoration is my conjecture. (Should we construe perʾu as singular or plural?) There may not be room enough for two signs. Also, Brünnow's copy shows a hint of two horizontals. Von Soden does not comment on the traces. Collation is required.
+
+$ single ruling
+
+9. še-am i-na li-gi-mi₃-šu₂ i-ma-ar-ha an-na-tu#-[x]
+#tr.en: Grain in its shoot was affected by smut . . [. . .]
+#note: I read i-ma-ar-ḫa as immarḫa, an N preterite from maḫāru (so CAD L, 183; CAD I/J, 205; and Foster 2005: 624) rather than immar from amāru (so von Soden 1971: 58, 59 with notes on pp. 69-70). 
+
+10. i-kuš-šu i-na ra-bi-šu₂-ma bil-ti u₂-[ta?-ar?]
+#tr.en: (Even if) it tarried in its growth, it will in[crease] (its) yield.
+#note: On the problematic form of the initial verb, derived from kâšu, see von Soden 1971: 70 (though I think the form should be a preterite rather than durative). CAD I/J, 205 reads i-su-šu, "its husks(?)" (see already Brünnow 1890: 240), which seems like a guess since such a usage of isu, "jaw, cheekbone," is not attested elsewhere for plants (likewise von Soden 1971: 70). CAD I/J, 205 also suggests restoring u₂-[maṭ-ṭa] at the line's end (so also von Soden 1971: 59 and CAD B, 231). It renders the entire line "when it ripens, its husks(?) decrease their yield." The suggested restoration gives the line a negative cast, which seems inappropriate to me. I think Foster's suspion that the context here and in adjacent lines is building a series of contrasts to illustrate how things that are bad or unpleasant turn around to something good or pleasant is likely correct. If so, we expect that this line should present something pleasant, the opposite of molded grain, rather than another negative, decreased harvest. Foster translates the line "(But) when it [scil. the grain] matured it [gave full] yield" (2005: 624), without giving an indication of the Akkadian behind it. I think he is basically correct. The Akkadian may have been uttar from atāru, "it will increase" (its yield). Given the verb at the head of the line, I considered a form of kuššû, "to make a profit, to make strong," here, e.g., ukašša. The verb is used in the D predicative to describe hair that is thick (kuššat) with growth (CAD K, 294). Could we have a similar idea here for grain, describing the result of the abundant growth on the harvest, i.e., "it will strengthen (its) yield"? The problem I see with the verb is that we would expect the grain to be its object rather than subject. 
+
+$ single ruling
+
+11. mu-u₂-ṣu ša₂ lib₃-bi u₂-ru-la-ti-šu₂ ik-kib DINGIR-MEŠ ka-la-ma ana UN-MEŠ [(x)]
+#tr.en: The discharge from the foreskin, an abomination to all the gods, (belongs) to the people,
+#note: Unlike previous translators (von Soden 1971: 59; Foster 2005: 624) I am translating kalāma with the preceding noun ilī, based on the similar usage in VAT 8807, rev. iii 16 (see Lambert 1960: 215). This, by the way, does not undermine Foster's point that here it seems people are presented as somehow "impure and disgusting to the gods" (2005: 624n. 4). As von Soden notes (1971: 70), there may have been nothing on the tablet after MEŠ.
+
+12. a-šar ek-let nam-rat še-zu-zu ta-a-[a-ar]
+#tr.en: Where there (once) was darkness it is light, the furious one is relen[ting].
+
+$ single ruling
+
+13. ma-ru aš₂-ru sa-an-qa a-ha-mu za-ra-šu₂ i-kar#-[rab]
+#tr.en: The submissive (and) obedient son gives a special bles[sing] to his progenitor.
+#note: Foster interprets these lines in light of the previous as follows: "people are by nature impure and disgusting to the gods, so, like the dutiful and ungrateful sons of line 185, humans and gods are by nature poles apart" (2005: 624n. 4). The sons in this couplet might be viewed as the results of the seminal discharge described in line 11 above.
+
+14. ma-ru la aš₂-ru la DIM₄ a-di e-ni-šu₂ ir-ra-ar₂ ba#-[ni-šu₂]
+#tr.en: The unsubmissive (and) disobedient son, until he changes(?), curses the one who be[got him].
+#note: On the obscure a-di e-ni-šu₂, see von Soden 1971: 70. My translation adopts one of his options tentatively. The other, "up to his eyes," would suggest some unknown idiom perhaps. It doesn't seem to fit here.
+
+$ single ruling
+
+15. ta-sa-niq IR₃-ka nap-pa-šu šu-up#-[te]
+#tr.en: You put your servant to the test! Ope[n] a window!
+#note: My translation of the initial verb follows CAD S, 140. Note Foster's rendering: "you discipline your servant" (2005: 624). It can be no accident that the derived adjective from the same root (sanqu) referred to an obedient and a disobedient son in the previous couplet (lines 13-14) and now the verb directs action toward the protagonist. Foster understands nappašu to be an air vent that would give the protagonist a means to breath (see also Seux 1976: 184). Von Soden renders the word "Fenster" (1971: 59; likewise, CAD N/1, 311).
+
+16. i-di let-ka suh-hi-ra ki-šad#-[ka]
+#tr.en: Pay attention; turn [your] head (lit. neck)!
+#note: The use of nadû with lētka indicates "a gesture of listening, of paying attention" (CAD L, 149).
+
+$ single ruling
+
+17. {d}NA₃ ta-sa-niq IR₃-ka nap-pa-šu šu-[up-te]
+#tr.en: O Nabu, you put your servant to the test! Op[en] a window!
+
+18. i-di let-ka suh-hi-ra ki-šad#-[ka]
+#tr.en: Pay attention; turn [your] head (lit. neck)!
+
+$ single ruling
+
+19. ul-li e-ni-is-su la-mas-su li!-[ir-ši]
+#tr.en: Remove his sin so that he may [acquire] a protective spirit,
+#note: Previous translators have seen a feminine form of ēnû, "substitute," here (von Soden 1971: 70; Seux 1976: 184n. 23; Foster 2005: 625n. 1). I find this difficult to believe since we should likely expect a masculine form of the noun rather than feminine. Also, positing ēnû as an object to ullû yields little sense. I think we should understand e-ni-is-su as a form of ennettu (ennetu), "sin," + –šu. If so, the initial E may be a mistake for EN; both have similar shapes and the same number of wedges. Perhaps a strike against the suggested reading is the fact that ennettu occurs three other times in the present text, and it is always spelled in-ni-ti (see obv. ii 17ˊ, 26ˊ, and 28ˊ). Lifting the protagonist's sin here makes good theological sense as it would allow his personal god or a protective spirit to return and renew his protection.
+
+20. qi₂-bi-tuk-ka SIG₅-MEŠ [...] x#? [...]
+#tr.en: According to your command favorable (things) [. . .] . . [. . .].
+
+$ about 8 lines missing
+
+$ (single ruling ?)
+ 
+1'. [... li]-pu-uš ga-nu-un-šu₂
+#tr.en: [. . . may] he make his storeroom,
+
+2'. [...] li-pu-uš si-ma-ak-šu₂
+#tr.en: [. . .] may he make his shrine.
+
+$ single ruling
+
+3'. [...]-ši lip-pa-ṭir zu-mur-šu₂
+#tr.en: [. . .] . , may his body be released,
+
+4'. [...] lim#!-mir ni-ṭil-šun
+#tr.en: [. . .] may their eyesight be bright.
+
+$ single ruling
+
+5'. [bu-nu-ka ZALAG₂-MEŠ] lit#-tar-ri-ṣu e-li-šu₂
+#tr.en: May [your bright countenance] be turned towards him,
+
+6'. [a?-a? u₂-za-mi₃ IR₃-ka] nak#-ru-uṭ ri-ši-šu₂ ti-ra-nu
+#tr.en: [May your servant not be deprived of] (your) pity! Have mercy on him!
+#note: For the restoration and translation, see the note on line 8ˊ below.
+
+$ single ruling
+
+7'. [{d}NA₃] bu!-nu!-ka ZALAG₂-MEŠ lit-tar-ri-ṣu e-li-šu₂
+#tr.en: [O Nabu], may your bright countenance be turned towards him,
+
+8'. [a?-a? u₂]-za#-mi₃ IR₃-ka nak-ru-uṭ ri-ši-šu₂ ti-ra-nu
+#tr.en: [May] your servant [not be deprived of] (your) pity! Have mercy on him!
+#note: Von Soden restored the head of the line to [u₂-z]a-mi₃, but I think there may be room for at least two (see line 7ˊ) and up to three signs (see line 15ˊ below) in the gap at the head of the line. A negative wish (a vetitive) makes good sense here, providing a contrast with the positive second half of the line.
+
+$ single ruling
+
+9'. [x x (x)]-a-tu₄ A.ŠA₃-MEŠ li-tu-ra a-nu-meš
+#tr.en: May the [. . .] . . fields be returned there(?),
+#note: See CAD A/2, 149 for the very few attestations of the obscure anummiš. 
+
+10'. [x x (x)]-a-ti GIŠ.ŠUB.BA-MEŠ li-ku-na a-na ša₂-a-šu
+#tr.en: May the [. . .] . . shares be established permanently for him.  
+
+$ single ruling
+
+11'. [ina] ši#-in-gi u ṣu-ṣe-e liš-te-šer at-man-šu
+#tr.en: [In] village and reed thicket may his cella be set in order,
+#note: It seems the poet has shifted to describing wishes for Nabu here and in the next line (?).
+
+12'. [ina kib-rat] er-be₂-e lim-mer nu-par-šu
+#tr.en: [In the] four [quarters] (of the world) may his disposition be bright!
+
+$ single ruling
+
+13'. [a-hu]-uz ŠU-su liš-tam-mar DINGIR{+ut}-ka
+#tr.en: [Take] hold of his hand that he may continually praise your divinity,
+
+14'. [ana kal] da-ad-mu liš-te-pa₂-a nar-bi-ka
+#tr.en: That he may manifest your greatness [to all] the habitations!
+
+$ single ruling
+
+15'. [{d}NA₃ a]-hu-uz ŠU-su liš-tam-mar DINGIR{+ut}-ka
+#tr.en: [O Nabu ta]ke hold of his hand that he may continually praise your divinity,
+
+16'. [ana kal] da-ad-mu liš-te-pa₂-a nar-bi-ka
+#tr.en: That he may magnify your greatness [to all] the habitations!
+
+$ single ruling
+
+17'. [le]-qe₂# da-ma-ṣu ba-la-ṣu u₃ ut-nen-šu₂
+#tr.en: [Ac]cept (his) prostration, (his) averted gaze(?; lit. staring), and his supplication,
+#note: Balāṣu often denotes staring but here it may have some specific meaning related to an act of reverence, abasement, or devotion. See CAD B, 45. I conjecture with my translation that the verb may indicate in this context a kind of intentional stare away from the deity (or superior) as a sign of respect.
+
+18'. [...]-ša₂-a-ti at-nu-uš li-kun taṣ-lit-su
+#tr.en: [. . .] . . his prayer; may his entreaty be true.
+
+$ single ruling
+
+19'. [{d}i-gi]-gu gim-rat-su-nu li-hu-zu a-bu-us-su
+#tr.en: May all of the [Igi]gi-gods intercede for him,
+
+20'. [{d}]lah₃#-mu iṣ-rat-su-nu liq-bu-u₂ SIG₅-šu₂
+#tr.en: May the Laḫmu in their council(?) speak in his favor.
+#note: The word iṣratu normally means "plan, ground-plan, design, border" (CDA, 132; CAD I/J, 206) but it may be that here it has a transferred meaning in the sense of the place or grouping where plans are made. Such a usage is, however, otherwise unattested.
+
+$ single ruling
+
+21'. [be-lu₄ ina] DINGIR-MEŠ šur-bu-u₂ nar-bu-ka
+#tr.en: [O lord, among] the gods your greatness is magnified,
+
+22'. [UN-MEŠ] ta-nit-ta-ka u₂-šar-ri-ha ana ṣa-a-ti
+#tr.en: [The people] have glorified your praise since time immemorial!
+
+$ single ruling
+
+23'. [{d}NA₃  ina DINGIR]-MEŠ šur-bu-u₂ nar-bu-ka
+#tr.en: [Nabu, among the god]s your greatness is magnified,
+
+24'. [UN-MEŠ ta-nit]-ta-ka u₂-šar-ri-ha ana ṣa-a-ti
+#tr.en: [The people] have glorified your [prai]se since time immemorial!
+
+$ single ruling
+
+25'. [...] x# x# x# qu-lup-ka
+#tr.en: [. . .] your . . .
+#note: On ideas of the meaning of qulpu here, see von Soden 1971: 71. He renders it with "Opferkuchen" (61).
+
+26'. [... li-iš-tam]-mar
+#tr.en: [. . . may he continually] praise.
+
+$ (likely between 2 to 6 lines missing)
