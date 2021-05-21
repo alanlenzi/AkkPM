@@ -1,0 +1,120 @@
+&P237924 = RINAP 5/2, Ashurbanipal 185 ex. 001
+#project: caspo/akkpm
+#atf: lang akk-x-stdbab
+#atf: use unicode
+
+@obverse
+1. {uru}LIMMU₂-DINGIR šu-bat {d}iš-tar E₂ i-sin-na-a-ti u₃# [nin?-gu?-ti?]
+#note: The restoration follows Novotny and Jeffers (RINAP 5, http://oracc.org/rinap/Q003771/).
+
+2. ša ul-tu ul-la BAD₃-šu₂ la ep-šu₂ la šuk-lu-la# šal#-[hu-u-šu₂]
+
+3. BAD₃-šu₂ ar-ṣip-ma u₂-šak-lil šal-hu-u-šu₂ lu-le-e# uš#-[mal-li]
+
+4. E₂ {d}+INANA GAŠAN-ia ina KU₃.BABBAR KU₃.GI URUDU u₂-nam-mir GIM u₄-mi#
+
+5. {giš}šu-ri-in-ni KA₂ E₂ {d}iš-tar KU₃.BABBAR KU₃.GI u₂-za-ʾ-in-ma az-qup
+#note: There is an odd-looking sign on the left margin of the tablet, situated between lines 5 and 6. The sign looks like a slashed equals sign (≠), except the transversal line runs in the opposite direction (i.e., from the top left to bottom right). The mark is certainly ancient, but its purpose or meaning is unclear.
+
+6. {uru}mil-qi₂-a E₂.GAL EDIN mu-šab {d}iš-tar an-hu-us-su ud-diš
+
+7. E₂ a₂-kit-su ar-ṣip URU ana gi-mir-ti-šu₂ u₂-šak-lil
+
+8. ina ta-di-ir-ti u₃ bi-ki-ti ša₂ u₂-šal-pi-tu₂-šu₂ LU₂.KUR₂ ŠU.MIN-MU um-mid ina HUL₂-MEŠ u₂-šak-lil
+#note: The line breaks after KUR₂ and resumes on the next line of the tablet, indented about one-third the width of the tablet.
+
+9. {giš}šu-ri-in-ni E₂ {d}U.GUR ša₂ {uru}tar-bi-ṣi ša₂ ul-tu₂ u₄-um pa-ni la GAL₂{+u} ana-ku az-qup
+#note: The line breaks just before ana-ku and resumes on the next line of the tablet, indented about three-quarters of the width of the tablet.
+
+10. ul-tu an-na-a e#-tap-pu-šu₂ ag-mu-ru šip-ri a-mat AD ba-ni-ia₂ ul paṭ#?-[ru?] at-ta-ṣar ana-ku
+#note: The line breaks after KUR₂ and resumes on the next line of the tablet, indented about three-quarters of the width of the tablet. The restoration follows a suggestion that goes back to Streck (1916: 2.250). The traces on the tablet support reading paṭ. I see little in the photo to go on for the second sign. The ṢAR is written over another sign, perhaps an AB, according to Pinches 1882: 17.
+
+11. {m}{d}GIŠ.NU₁₁-MU-GI.NA ŠEŠ-MU ta-li-me ana! LUGAL{+ut} {kur}kar₂#-{d}dun#-ia₂#-[aš₃] u₂-šad-gi-la pa-nu-uš#-šu₂#
+#note: The line breaks after the last sign of Karduniash and resumes on the next line of the tablet, indented about two-thirds of the width of the tablet. The ana has been erased on the tablet.
+
+12. {m}AN.ŠAR₂-mu-kin-BALA-MEŠ-ia₂ ŠEŠ-MU tar-den-ni ana LU₂.ŠEŠ.GAL{+tu₂} ug-dal-lib ina IGI AN.[ŠAR₂]
+
+13. {m}AN.ŠAR₂-e-tel-AN-KI-TI.LA.BI ŠEŠ-MU TUR ana LU₂.ŠEŠ.GAL{+tu₂} ina IGI {d}3(u) a-šib {uru}KASKAL ug-dal-lib
+#note: The line breaks after Sin's name and resumes on the next line of the tablet, indented just a bit more than half  the width of the tablet.
+
+@reverse
+1. a-di ki-is-pi na-aq A-MEŠ a-na GIDIM-MEŠ LUGAL-MEŠ DU{+ut} mah#-[ri?-ia₂?] ša₂ šub-ṭu-lu ar₂-ku-us#
+#note: The line breaks after the restoration and resumes on the next line of the tablet, indented just a bit more than half  the width of the tablet. Most of the previous translators of the text take adi here as a conjunction standing at the head of two subordinate phrases, the verbs of which are found in arkus at the end of rev. 1 as well as ēpuš at the end of rev. 3. See Luckenbill 1927: 2. 377–378, who renders rev. 1–3 in this manner:  “Since (lit., while) I have instituted offerings and the pouring of water for the ghosts of the kings who lived (lit. went) before me, which had fallen into disuse (been neglected), (and) so have done good to god and man, to the dead and the living, why is it that disease, heartache, distress and destruction are clinging (lit. are bound) to me?” Also, Novotny and Jeffers (RINAP 5): “While I reinstat[ed] the funerary offerings (and) libation offerings for the spirits of the kings who came be[fore me] that had been discontinued (and) I performed good deed(s) for god and man, for (both) the dead and the living, why are illness, misery, expenses, and losses bound to me?”). However, neither verb is marked with the subjunctive. (Compare the verbs after ultu in obv. 10.) Also, the temporal sense of adi here at the head of two clauses followed by a question does not make good sense. Streck also saw a problem with adi (1916: 2.251, n.12), but he rejected the term entirely and instead understood a-di as the plural of adû, which he rendered “Vorschriften” (“instructions, specifications”). This is not a viable solution in light of our better understanding of that term (see CAD A/1, 131–134). Instead, I think we should recognize adi as a preposition, which before a noun (X) in the NA royal inscriptions often means “together with X.” Admittedly, the syntax of adi at the head of these lines is unusual since we would expect the prepositional phrase to follow a previously named noun: X adi Y, “X, together with Y” (see the various examples in CAD A/1, 121–125). Yet this understanding clears the way to give the question in rev. 3 its proper due in the rhetoric of the text. The question is obviously pivotal in Ashurbanipal’s discourse, moving the text from a description of his meritorious actions to his unmerited suffering (lament). It is also summative in that the question recalls all three categories of Ashurbanipal’s previously described actions in the course of its query: Ashurbanipal has honored divinity (obv. 1–9), living men (obv. 10–13), and dead men (rev. 1–2; see also obv. 10). Thus, despite the oddity in syntax mentioned above, I think this understanding of adi yields the best translation and understanding of the text as a whole.
+
+2. a-na DINGIR u a-me-lu-tu₄ ana UŠ₂-MEŠ u TI-MEŠ MUN DU₃{+uš#}
+#note: There is an erasure after TU₄ and there are a few signs between MEŠ and TI that have been erased and written over. See the photo.
+
+3. am-mi₃-ni GIG HUL lib₃-bi E₃ u hu-lu-uq-qu-u rit-ku-sa KI-ia₂
+#note: The first three signs are written over an erasure. The last two signs in the line are written on the next line of the tablet, directly below KU and SA.
+
+4. ina KUR ṣal-ta ina E₂ pu-uh-pu-uh-hu-u la ip-par-ra-su A₂.[MIN-a-a]
+#note: Novotny and Jeffers (RINAP 5) restore the end of the line with ⸢Á⸣.[II.MEŠ-a-a]; see likewise Streck 1916: 2.252.
+
+5. du-lu-uh-hu-u a-mat HUL{+ti₃} su-ud-du-ru-u-ni ka-a-a-na!(AN)
+#note: If these lines are verse, then we expect a trochee at the end of the line. Rev. 5 is the only line in the poetic section of the text that lacks a trochee. It may very well be the case that the AN at the end of the line is a mistake for NA. The two signs are not that dissimilar and there are a rather large number of erasures in the text. So this seems plausible to me. If the mistake is convincing, then we have a trochee here, too.
+
+6. la DUG₃.GA lib₃-bi la DUG₃.GA UZU ik-ta-pa-ap la-a-ni
+#note: The UZU may be written over a small erasure.
+
+7. ina u₈-a a-a ag-da-mar u₄-me
+#note: The last word in the line, ūmē, may be an Assyrianism.
+
+8. ina u₄-um DINGIR URU u₄-um iš-šin-ni ana-ku dal-ha-ku
+
+9. u₂-kal-la-an-ni UŠ₂ u₂-šap-ša₂-aq
+
+10. ina ku-u-ri ni-is-sa-ti ur-ra u GI₆ a-na-as-su-us
+
+11. a-ta-na-ah DINGIR ana la pa-li-hi SUM-in lu-mur ZALAG₂-ka#
+
+12. EN im-mat DINGIR an-na-a te-ep-pu-ša₂-an-ni#
+#note: There is an erasure after DINGIR and after an-na-a.
+
+13. ki-i la pa-li-ih DINGIR u₃ {d}+INANA ana-ku ep-ša₂-ku#
+#note: The 1cs predicative at the end of the line is an Assyrianism (see Hämeen-Anttila 2000: 103, 149). The expected Babylonian form is epšēku (see also ūmē in rev.7). This provides a very small bit of evidence that an Assyrian is writing this text, despite the Babylonian script, which is, it should be noted in light of the many erasures, executed imperfectly.
+
+@translation labeled en project
+@label o 1 - o 9
+(Concerning) Arbela, the dwelling of Ishtar, the house of festivals and [merrymaking], whose (inner) wall had not been built since ancient times (and) o[uter wall] had not been completed, I built its wall and completed its outer wall. I [filled] (the city) with grandeur. I made the house of my lady Ishtar as radiant as the day with silver, gold, (and) copper. I adorned the emblem of the gate of Ishtar’s house with silver (and) gold and erected (it). (As for) Milqia, the palace of the steppe, the dwelling of Ishtar, I renovated its ruins. I built its Akitu-house. I completed the city in its entirety. I set my hands (to work) in depression and with weeping on that which the enemy had attacked. I completed (the work) with rejoicing. I myself erected the emblem of Nergal’s house, which (is in) Tarbiṣu (and) which did not exist in previous days.
+
+@label o 10 - o 13
+After I had done this (and) finished the work, I myself kept the word of (my) father, my progenitor, which cannot be un[done(?)]. I entrusted Shamash-shuma-ukin, my favorite brother, with the kingship of Karduni[ash] (i.e., Babylon). I devoted Ashur-mukin-paleʾa, my younger brother, to the sheshgallu-priesthood of Ashur. I devoted Ashur-etel-shame-erṣeti-muballissu, my youngest brother, to the sheshgallu-priesthood of Sin, who dwells in Harran. 
+
+@label r 1
+Along with the funerary offerings, I re-established the pouring out of water to the ghosts of kings who came b[efore me], which had ceased. 
+
+@label r 2
+I honored god and humanity, the living and the dead, (in all of these ways).
+
+@label r 3
+Why (then) are illness, sorrow, expenses, and loss permanently bound to me? 
+
+@label r 4
+Discord in the land, strife in the house are not withheld fr[om me]. 
+
+@label r 5
+Disturbances (and) evil words are constantly set out against me, 
+
+@label r 6
+Emotional and physical distress have bent my frame. 
+
+@label r 7
+I have spent my days (sighing) “woe” (and) “alas,” 
+
+@label r 8
+I am distressed on the festival day, the day of the god of the city.
+
+@label r 9
+Death holds me fast. I am in dire straits! 
+
+@label r 10
+I moan day and night on account of depression (and) lamentation.
+
+@label r 11
+I am exhausted, O god. Give (these things) to the one who shows (you) no reverence so I may see your light. 
+
+@label r 12
+How long, O god, will you treat me in this manner?
+
+@label r 13
+Like one who does not revere (his) god and (his) goddess I am treated.
