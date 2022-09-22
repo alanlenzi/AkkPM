@@ -1,4 +1,4 @@
-﻿&P269974 = PBS 01/1, 02
+&P269974 = PBS 01/1, 02
 #project: caspo/akkpm
 #atf: lang akk-x-oldbab
 #atf: use unicode
@@ -88,7 +88,7 @@ $ single ruling
 
 19'. [...] x# GA-AG-da-am na-di-šu
 #tr.en: [. . .] . was laid upon him constantly
-#note: For the writing and meaning of the first word (kakdû/â / kaqdû/â, see Lambert 1989: 333.
+#note: For the writing and meaning of the first word (kakdû/â / kaqdû/â), see Lambert 1989: 333.
 
 20'. [...] x# I# MA# x# x# x# x# 
 #tr.en: [. . .] . . .
@@ -246,7 +246,7 @@ $ single ruling
 
 19. i-ta-u-šum ba-ru-u₂ ta!(AD)-bi-il [...-ka]
 #tr.en: The diviner spoke to him, "[Your . . .] is removed."
-#note: Lambert (1989: 326) reads the second half of the line ba-ru-u₂-at bi-il-[ta-šu], rendering it "[his] load is only middling" without comment (330, 334). CAD B, 123 prefers to read i-ta-u-šum ba-ru-u₂ ze₂-bi-il, "the diviner tells him, 'Carry [your burden]'," but the tablet clearly shows an AD. I suggest the scribe has made an internal aural mistake, reversing the sound of the correct sign (TA) and writing the incorrect sign (AT). the facts that AD and TA have the same number of wedges and a somewhat similar shape in Old Babylonian support this idea. According to my suggestion, the diviner is telling the supplicant what has been learned via divination, namely, that something of the supplicant's (i.e., his personal god [ilka], his dignity [bāštaka], his virility [dūtka], etc.) has left him (see CAD T, 19 for this use of tabālu). 
+#note: Lambert (1989: 326) reads the second half of the line ba-ru-u₂-at bi-il-[ta-šu], rendering it "[his] load is only middling" without comment (330, 334). CAD B, 123 prefers to read i-ta-u-šum ba-ru-u₂ ze₂-bi-il, "the diviner tells him, 'Carry [your burden]'," but the tablet clearly shows an AD. I suggest the scribe has made an internal aural mistake, reversing the sound of the correct sign (TA) and writing the incorrect sign (AT). The facts that AD and TA have the same number of wedges and a somewhat similar shape in Old Babylonian support this idea. According to my suggestion, the diviner is telling the supplicant what has been learned via divination, namely, that something of the supplicant's (i.e., his personal god [ilka], his dignity [bāštaka], his virility [dūtka], etc.) has left him (see CAD T, 19 for this use of tabālu). 
 
 20. la di-nu at-ru ša-i-la-tim si₂-[ni?-iq?]
 #tr.en: "The judgments are not too much (to bear). Co[nsult(?)] the dream interpreters."
@@ -258,9 +258,9 @@ $ single ruling
 #tr.en: O Ishtar, you (are) the guardian [of life]!
 #note: CAD Š/2, 190 suggests restoring nišī, "of the people." For this epithet, see also rev. ii 9ˊ.
 
-22. ŠA₃.TAM bu-ul-ṭi-ma šu-u₂ ša <ša?> ṣi#?-[tam i?-mi?-ru?]
+22. ša₃-tam bu-ul-ṭi-ma šu-u₂ ša <<ša?>> ṣi#?-[tam? i?-mi?-ru?]
 #tr.en: The administrator of well-being (or, life, healing), he it is who [has experienced(?)] a lo[ss(?)].
-#note: Šatammu is not typically used to describe a deity (see CAD Š/2, 191-192, where only one citation referring to Gilgamesh is certain and for the present text it understands the word to refer to the supplicant). Thus, it seems likely to me that the line refers to the supplicant himself. The second half of the line is problematic. Lambert does not give a reading or translation (1989: 326, 330). As he notes, the final sign before the break might also be read A[D]. If so, the reading in CAD Š/2, 191 is possible: šû ša šaṭpû, "he whose life is preserved" (šu-u₂ ša ša-a[ṭ-pu-u₂]), though this seems too short for the gap at the end of the line. Given my understanding of the text above, we would expect a verb that indicates that the loss has happened to the supplicant. In addition to amāru, we might also imagine some form of rašû or šakānu. The understanding of this couplet in which the goddess is described positively in the first line and the supplicant's material condition is presented negatively in the second line takes its cue from the following couplet that seems to follow the same pattern.
+#note: Šatammu is not typically used to describe a deity (see CAD Š/2, 191-192, where only one citation referring to Gilgamesh is certain and for the present text it understands the word to refer to the supplicant; but note šatam napišti, referring to Nabu, in Prayer to Marduk, no. 2, line 50, for which see Oshima 2011: 242). Thus, it seems likely to me that the line refers to the supplicant himself. The second half of the line is problematic. Lambert does not give a reading or translation (1989: 326, 330). As he notes, the final sign before the break might also be read A[D]. If so, the reading in CAD Š/2, 191 is possible: šû ša šaṭpû, "he whose life is preserved" (šu-u₂ ša ša-a[ṭ-pu-u₂]), though this seems too short for the gap at the end of the line. Given my understanding of the text above, we would expect a verb that indicates that the loss has happened to the supplicant. In addition to amāru, we might also imagine some form of rašû or šakānu. The understanding of this couplet in which the goddess is described positively in the first line and the supplicant's material condition is presented negatively in the second line takes its cue from the following couplet that seems to follow the same pattern.
 
 $ single ruling
 
@@ -290,12 +290,11 @@ $ single ruling
 $ single ruling
 
 29. i-ni-ih-ki-im-ma aš-ra-ki i-še#-[i]
-#tr.en: He has wearied himself seek[ing] your cella (lit. place).
-#note: The translation is an idiomatic rendering, understanding the first verb to be working in hendiadys with the second (for which, see CAD A/2, 102).
+#tr.en: He laments to you and seek[s] your cella (lit. place).
 
 30. IR₃!(BA)-ki i-gu-u₂ ri-ši-šum re-[e-ma-am]
 #tr.en: Your servant, who has been negligent: Have m[ercy] on him!
-#note: As Lambert suggests (1989: 334), one might read ba-ki i-gu-u₂ (326), "the weeper who has been negligent" (330), but an emendation to IR₃, attributed to Erica Reiner (see also already Jacobsen 1963: 483n24), seems a better reading.
+#note: As Lambert suggests (1989: 334), one might read ba-ki i-gu-u₂ (326), "the weeper who has been negligent" (330), but an emendation to IR₃, attributed to Erica Reiner (see also already CAD E, 58 and Jacobsen 1963: 483n24), seems a better reading.
 
 $ single ruling
 
@@ -486,22 +485,22 @@ $ single ruling
 
 22. a#?-ri-im-mi it-ta-ki-ir ba-aš!(ŠA)-ti ud-da#-[ap-pi-ir]
 #tr.en: "My(?) . . . has become strange/hostile, my dignity has be[en withdrawn].
-#note: Lambert suggests the first sign might also be ME (1989: 336). In any case, the first word is unknown. The writing ba-ša-ti is not expected for bāštu, which does not occur in the plural. (See obv. ii 8 where the scribed used the typical orthography, ba-aš-ta-šu.) This is likely another case where the scribe has made an internal aural reversal of sounds and written the wrong sign (ŠA for AŠ).
+#note: Lambert suggests the first sign might also be ME (1989: 336). In any case, the first word is unknown. The writing ba-ša-ti is not expected for bāštu, which does not occur in the plural. (See obv. ii 8 where the scribe used the typical orthography, ba-aš-ta-šu.) This may be another case where the scribe has made an internal aural reversal of sounds and written the wrong sign (ŠA for AŠ). However, Lambert suggests the present writing is a poetic bi-form of the noun, similar to napištu / napšatu, since a similar form occurs in the (SB) Hymn to the Queen of Nippur (Lambert 1989: 333; 1982: 209).
 
 $ single ruling
 
 23. mur#-ṣu nam-tar u₂-[a] di-u₂-um u₃ di-[li-ip-tum]
-#note: "Illness, the plague-demon, wo[e], headache, and in[somnia],
+#tr.en: "Illness, the plague-demon, wo[e], headache, and in[somnia],
 
 24. zi#-mi#-ia ut-ta-ak-ki-ru a#-pi?#-a# x# [...]
 #tr.en: "They have changed my appearance, . . . [. . .]
-#note: The PI could possibly be ŠI (as noted by Lambert 1989: 327). Lambert entertains the possibility of restoring a-pi-a-k[u], "I am dim" at the end of the line (336).
+#note: The PI could possibly be ŠI (as noted by Lambert 1989: 327). Lambert entertains the possibility of restoring a-pi-a-k[u], "I am dim," at the end of the line (336).
 
 $ single ruling
 
 25. u₂-uš#-ta#-pi#-a# iṭ#-ṭe₄#-hi-mi ur-hu u₂?-[...]
 #tr.en: "[. . .] appeared (and) approached, the path . . [. . .]
-#note: Lambert understands the verbs to be in the first person (1989: 331). Although possible, it is just as likely that they are third person verbs, introducing a divine figure who mediates a message to the supplicant (see lines 27-28). The last sign might be PA, as Lambert notes (327). He entertains the possibility of restoring pa-[ti-a-am], "is open to me," at the end of the line (336).
+#note: Lambert understands the verbs to be in the first person (1989: 331; see likewise CAD Ṭ, 72). Although possible, it is just as likely that they are third person verbs, introducing a divine figure who mediates a message to the supplicant (see lines 27-28). The last sign might be PA, as Lambert notes (327). He entertains the possibility of restoring pa-[ti-a-am], "is open to me," at the end of the line (336).
 
 26. i-li u₂ [(x)] DI? NU ne-me-lum i-na mu-na#?-[...]
 #tr.en: "My god and . . . profit, in . . . [. . .]
@@ -684,7 +683,7 @@ $ single ruling
 
 19'. [...]-tam#? u₃ ba-aš!(TA)-tam a-na is-qi₂-šu
 #tr.en: [. . .] . . . and dignity(?) for his share
-#note: As Lambert notes, "[t]he word ba-TA-tam could be a phonetic variant or error for ba-ša-tam . . . or an error for ba-la!-ṭam" (1989: 336). If we assume bāštam to be the correct word, then the scribe has made a couple of mistakes, writing ba-TA-tam for ba-ša!-tam (see rev. i 22 for the same mistake) instead of the expected ba-aš-tam. This line may be another example of internal aural reversal. In this case, however, the scribe, whose copy read AŠ, switched the sound to ŠA and then misformed the sign so as to read TA. A similar TA instead of ŠA mistake (also?) occurs in rev. i 28.
+#note: As Lambert notes, "[t]he word ba-TA-tam could be a phonetic variant or error for ba-ša-tam . . . or an error for ba-la!-ṭam" (1989: 336). If we assume bāštam to be the correct word, then the scribe (perhaps) has made a couple of mistakes, writing ba-TA-tam for ba-ša!-tam (see rev. i 22 for the same mistake) instead of the expected ba-aš-tam (see, however, the note on rev. i 22, which discusses the possibility that ba-ša-ti is a bi-form of the noun rather than an error). This line may be another example of internal aural reversal. In this case, however, the scribe, whose copy read AŠ, switched the sound to ŠA and then misformed the sign so as to read TA. A similar TA instead of ŠA mistake (also?) occurs in rev. i 28.
 
 $ single ruling
 

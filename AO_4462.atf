@@ -2,19 +2,19 @@
 #project: caspo/akkpm
 #atf: lang akk-x-oldbab
 #atf: use unicode
-##note: AO 4462 contains the OB lament traditionally entitled in Assyriology "The Babylonian Man and His God." It was first published by Jean Nougayrol, Revue Biblique 50 (1952), 239-250 with a copy of the tablet on pls. VII-VIII. Secondary publication with very important improvements came from W. G. Lambert in the Reiner Fs. = AOS 67, pp. 187-202 (1987), where he lists other secondary literature prior to his article (note especially von Soden Or n.s. 26 [1957], 315-319, the source of many improvements in the text; see Lambert's earlier, brief comments on the text in 1960: 10-11n. 3). SEAL record is at https://seal.huji.ac.il/node/1808?tid=163. CDLI:wiki link: http://cdli.ox.ac.uk/wiki/doku.php?id=dialogue_between_a_man_and_his_god (text and translation).
+##note: AO 4462 contains the OB lament traditionally entitled in Assyriology "The Babylonian Man and His God." It was first published by Jean Nougayrol, Revue Biblique 50 (1952), 239-250 with a copy of the tablet on pls. VII-VIII. Secondary publication with very important improvements came from W. G. Lambert in the Reiner Fs. = AOS 67, pp. 187-202 (1987), where he lists other secondary literature prior to his article (note especially von Soden Or n.s. 26 [1957], 315-319, the source of many improvements in the text; see Lambert's earlier, brief comments on the text in 1960: 10-11n. 3). SEAL record is at https://seal.huji.ac.il/node/1808?tid=163. CDLI:wiki link: http://cdli.ox.ac.uk/wiki/doku.php?id=dialogue_between_a_man_and_his_god (text and translation). Von Soden 1957: 316-319 lays out the poetic structure: The lament falls into nine strophes each containing ten poetic lines (though not always written on ten lines). Strophe 1 = o1-9 (with o1 containing two poetic lines); Strophe 2 = o10-16 (with o14-16 containing two poetic lines); Strophe 3 = o17-21 (with each containing two poetic lines); Strophe 4 = o22-26 (with each containing two poetic lines); Strophe 5 = o27-31 (with each containing two poetic lines); Strophe 6 = o32-o38 (too damaged to determine poetic lineation); Strophe 7 = r1-9 (with r5 maybe containing two poetic lines); Strophe 8 = r10-19 (with each containing one poetic line); Strophe 9 = r20-29 (with each containing one poetic line); Rev. 30-31 is a colophon.
 
 @obverse
 
 1. eṭ-lu-um ru-i-iš a-na i-li-šu i-ba-ak-ki u₂-te-ne-en-ne-en ik-ta#?-[na]-ra#?-ab#-šu
 #tr.en: A man was crying loudly(?) to his (personal) god; he was continually imploring, he was cons[tantly] entreating(?) him.
-#note: There is some dispute about the meaning of the -iš ending on ruʾiš (see Mayer 1995: 185-186 for the fullest discussion). Many translators understand ruʾiš to indicate that the supplicant complains to the personal god as he would complain to a friend, that is, they understand -iš as indicating a comparison (see, e.g., Foster 2005: 148; Lambert 1987: 189; and CAD R, 439). Von Soden states a comparative form here would be inappropriate (1990: 136n. 1a), but given the close connection between an individual and their personal god, I do not think there is any real problem theologically or socially with such a comparison (likewise, Lambert 1987: 194; to the contrary, Mayer 1995: 186). Others see the -iš as an adverbial-terminative ending, essentially equivalent to ana, and so translate "for (his) friend" (see, e.g., Nougayrol 1952: 243 and von Soden 1990: 136). Mayer says the terminative understanding "ist grammatisch unangriefbar" (1995: 185) but, justifably, in my view, has contextual problems with the implications of such a grammatical understanding since the speaker takes on a kind of intercessory role, i.e., the supplicant is praying for the deity to help his friend, and yet there is no solid indication of such a friend in the remainder of the text (see also Lambert 1987: 194, whose view was a long-standing one [compare already 1960: 11]). Of these two options, I think the latter is better. But, Mayer advocates for another possibility, first raised by van Dijk (1953: 120), that has not received sufficient attention (though cited by Foster 2005: 150 as an alternative), namely, the word is an adverb from an otherwise unattested root in Akkadian (though known in other Semtic languages, e.g., Hebrew רוע), meaning "loudly" here. I am following von Soden's tentative restoration at the end of the line (1990: 136; compare previously, von Soden 1957: 316; likewise Gabbay and Wasserman 2008; and note Lambert's reservations [1987: 194]).
+#note: There is some dispute about the meaning of the -iš ending on ruʾiš (see Mayer 1995: 185-186 for the fullest discussion). Many translators understand ruʾiš to indicate that the supplicant complains to the personal god as he would complain to a friend, that is, they understand -iš as indicating a comparison (see, e.g., Foster 2005: 148; Lambert 1987: 189; and CAD R, 439). Von Soden states a comparative form here would be inappropriate (1990: 136n. 1a), but given the close connection between an individual and their personal god, I do not think there is any real problem theologically or socially with such a comparison (likewise, Lambert 1987: 194; to the contrary, Mayer 1995: 186). Others see the -iš as an adverbial-terminative ending, essentially equivalent to ana, and so translate "for (his) friend" (see, e.g., Nougayrol 1952: 243 and von Soden 1990: 136). Mayer says the terminative understanding "ist grammatisch unangreifbar" (1995: 185) but, justifably, in my view, has contextual problems with the implications of such a grammatical understanding since the speaker takes on a kind of intercessory role, i.e., the supplicant is praying for the deity to help his friend, and yet there is no solid indication of such a friend in the remainder of the text (see also Lambert 1987: 194, whose view was a long-standing one [compare already 1960: 11]). Of these two options, I think the latter is better. But, Mayer advocates for another possibility, first raised by van Dijk (1953: 120), that has not received sufficient attention (though cited by Foster 2005: 150 as an alternative), namely, the word is an adverb from an otherwise unattested root in Akkadian (though known in other Semtic languages, e.g., Hebrew רוע), meaning "loudly" here. I am following von Soden's tentative restoration at the end of the line (1990: 136; compare previously, von Soden 1957: 316; likewise Gabbay and Wasserman 2008; and note Lambert's reservations [1987: 194]).
 
 2. ha-mi-iṭ li#-ib-bu-uš du-ul-la-šu ma-ru-iṣ-ma
 #tr.en: His heart was burning; his hardship was grievous,
 
 3. i-ta-aʾ-da-ar ka-ba-at-ta-šu i-ni-in-hi 
-#tr.en: His mood (lit. liver) was gloomy on account of his hardship.
+#tr.en: His mood (lit. liver) was gloomy on account of (his) hardship.
 #note: Note the Sandhi writing of ina inḫi.
 
 4. i-ni-iš-ma ik-ta-mi-us i-pa-al-si₂₀-ih
@@ -68,7 +68,7 @@ $ single ruling
 
 17. ši-mi#? [x x (x)] x x x PI? [x (x)] x-a?-ra#? na-zu-iz-za be-lu mi-ša-ri mu-ši#?-[im? ...]
 #tr.en: . . [. . .] . . . [. .] . . ; the lord of justice, who decr[ees(?) . . .], stands present.
-#note: Gabbay and Wasserman 2008 translate read the initial signs as the imperative "hear." 
+#note: Gabbay and Wasserman 2008 read the initial signs as the imperative "hear." 
 
 18. x [...] I? ŠU? x [x x (x)]-am#?-ma? li-ib-ba-šu nu-as-qu₃-um li-[...]
 #tr.en: . [. . .] . . . [. . .] . . may his precious heart [. . .]
@@ -91,7 +91,7 @@ $ single ruling
 #tr.en: [. . .] . . I was aggrieved [. . .] . . . [(. . .)]
 
 23. [...] ki-ma ša x x [...]-ar#-bu?-bi a#-ša#-as#-[si? ...]
-#tr.en: [. . .] like . . . [. . .] . .  . I was cr[ing out(?) . . .]
+#tr.en: [. . .] like . . . [. . .] . .  . I was cry[ing out(?) . . .]
 #note: The restoration at the end of the line follows Gabbay and Wasserman 2008.
 
 24. [...] UR x iq-ta-ti ka-ba-at-ti ŠI x MA x x [(x)] da#?-ar u₄-mi-ia
@@ -108,9 +108,9 @@ $ single ruling
 
 $ single ruling
 
-27. i-na#? [pa]-an du-um-qi₂ tu-ka-al-li-ma lu-um-na be-li x [x x la?] tu#-ša-an-me-er IG-[x x x]-IB#-BI 
-#tr.en: Inst[ead] of favor, you have shown me evil; O my lord, . [. . .] you have [not(?)] illuminated . [. .] . . .
-#note: Von Soden suggests reading i-na [pa]-an, "instead of," at the head of the line (1990: 138n.27a), which I follow here tentatively (likewise, Gabbay and Wasserman 2008, who translate the phrase with "before(?)"). The signs after IG are written beneath the line, beginning directly under be-li. Lambert restored ik-[ki]-ib-bi, understanding this to be a disease called "burning" (1987: 197). Von Soden suggests ik-[ki-i]p-pi₂, standing for ina kippi, and understands the phrase to refer to the coils of entrails and thus to be related to divination (1990: 138n.27d; see earlier 1957: 317). Because the gap on the tablet can easily accommodate two or three signs, I find both suggestions unconvincing on epigraphic grounds.
+27. i-na#? [pa]-an du-um-qi₂ tu-ka-al-li-ma lu-um-na be-li ma#-[ti] tu#-ša-an-me-er IG-[x x (x)]-IB#-BI 
+#tr.en: Inst[ead] of favor, you have shown me evil; O my lord, wh[en] have you illuminated . [. .] . . .
+#note: Von Soden suggests reading i-na [pa]-an, "instead of," at the head of the line (1990: 138n.27a), which I follow here tentatively (likewise, Gabbay and Wasserman 2008, who translate the phrase with "before(?)"). I restore m[a-ti] with von Soden 1957: 317 (likewise, Gabbay and Wasserman 2008). The signs after IG are written beneath the line, beginning directly under be-li. Lambert restored ik-[ki]-ib-bi, understanding this to be a disease called "burning" (1987: 197). Von Soden suggests ik-[ki-i]p-pi₂, standing for ina kippi, and understands the phrase to refer to the coils of entrails and thus to be related to divination (1990: 138n.27d; see earlier 1957: 317). Zisa follows Lambert's restoration but understands the resulting ikkibbi as a form of ikkibu, "abomination." He understands the use of the Š-stem of nawāru, "to make bright," here with ikkibu (which would be unparalleled, as far as I can determine) as a kind of negative counterpart to the later use of the same verb with libbu in rev. 8 (2012: 16, 23-24). The gap on the tablet can easily accommodate two or three signs, and so I find these suggestions unconvincing.
 
 28. ru-ub-bu mu-us₂-ki še-pi₂-iš wa-ta-ti-ma me-eh-ṣe-tim iš?-[ku?-un? x] x ma-hi-ia
 #tr.en: My misfortune has grown; to (my) feet . . . ; it (i.e., the misfortune?) has infli[cted] blows on(?) my . . .
@@ -124,8 +124,8 @@ $ single ruling
 #tr.en: [.] . . you . . . ; you roiled the waters; my release . . [.] . . since I was a child.
 
 31. [x] x x x (x) [x x (x)] x x le-et ša-di-i aš-ru# mu-lu-u₂ mu-ri-da la i-šu-ni
-#tr.en: [.] . . . [. . .] . . the side of the mountain, where the height offers no way down.
-#note: More literally, "where the ascent has no descent" (as Lambert renders, 1987: 193).
+#tr.en: [.] . . . [. . .] . . the side of the mountain, where the heights offer no way down.
+#note: More literally, "the place (where) the ascent has no descent" (similar to how Lambert renders it, 1987: 193). Von Soden takes aš-ru as a stative, "überprüft sind die Austiege" (1990: 138n. 31a; likewise, Gabbay and Wasserman 2008).
 
 $ single ruling
 
@@ -186,7 +186,7 @@ $ single ruling
 
 9. i-ta-u₂-šu ta-ap-še-ha-at ṭu₂-ub ši-ri-šu
 #tr.en: He spoke to him of the relief his well-being (would bring).
-#note: The phrase tapšehat ṭūb šīrīšu literally means "the relief of the goodness of his flesh," and thus "the relief of his well-being." The idea is not that the supplicant is being relieved of his well-being, of course. Rather, the relief that is coming to him is one characterized by well-being. My translation follows Lambert 1987: 193.
+#note: The phrase tapšeḫat ṭūb šīrīšu literally means "the relief of the goodness of his flesh," and thus "the relief of his well-being." The idea is not that the supplicant is being relieved of his well-being, of course. Rather, the relief that is coming to him is one characterized by well-being. My translation follows Lambert 1987: 193.
 
 $ single ruling
 
