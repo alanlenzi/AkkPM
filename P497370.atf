@@ -1,0 +1,67 @@
+﻿&P497370 = AbB 12, 099
+#project: caspo/akkpm
+#atf: lang akk-x-oldbab
+#atf: use unicode
+##note: BM 97298
+
+@tablet
+
+@obverse
+
+1. a-na be-el-ia {d}MAR.<<MAR>>.TU
+
+ 
+2. ša i-na ma-har {d}UTU qi₂-bi-is-su₂ ša-ma-at 
+
+3. qi₂-bi₂-ma 
+
+4. um-ma ar-du-um SAG.ER₃-ka-ma 
+
+5. it-<ti> a-mi-li ta-ab-na-an-ni-ma su-qa₃-am 
+
+6. tu-še-te-qa₃-an-ni 
+ 
+7. u₂ ša-at-ti-ša UDU SISKUR.SISKUR.RE a-la-qe₂-ku-ma 
+
+8. a-na i-lu-ti-ka ka-bi-it-tim 
+
+9. i-ip-pu-uš 
+
+10. i-na-an-na na-ak-ru ik-šu-da-an-ni-ma 
+
+11. mu-uš-ke-ne₂-ku-ma a-ah-hu-a
+#note: There is an erasure between the final two signs in the line.
+
+12. u₂-ul i-a-ri-ru-ni 
+
+@reverse
+
+1. šum-ma AN KA ra-bi-tum ŠA RA AM 
+#note: As van Soldt notes (1990: 85, note k), the understanding of AN KA as DINGIR-ka is problematic. We expect an intervening phonetic complement, as in other instances of ilūtu plus pronominal suffix (see lines 16 and 20). It may be best to read DINGIR-<ut>-ka ra-bi-tum here ("your great divinity"), though this does little to clarify the context.
+
+2. i-na {giš}NA₂ na-da-a-ku di-ki-an-ni 
+
+3. UDU SISKUR.SISKUR.RE ṭa₃-ah-da-am 
+
+4. lu-ul-qe₂-a-am-ma a-na ma-har DINGIR{+ti}-ka
+
+5. lu-ul-li-ka-ak-ku 
+
+6. DA MU ZA ŠI KI IL MA ZU 
+
+7. LA MA x MA qi₂-in-ni la ip-pa-ra-ar# 
+#note: Might the unclear sign be a malformed SU?
+
+8. a-mi-ru-ia a-na DINGIR{+ti}-ka 
+
+9. ba-ni-tim 
+
+10. u₂-ša-aq-ri-bu!(IB)
+#note: There is an erasure between the ŠA and the AQ. There seems to be a scribal error with the last sign (see Lenzi 2015).
+
+@translation labeled en project
+@label o 1 - o 12
+To my lord Amurrum, whose command is heard before Shamash, speak: Thus (says) Ardum, your servant, With men you created me and on the street caused me to pass (unharmed). Moreover, I would bring you a sheep offering every year and offer (it) to your honored divinity. Now, the enemy has overcome me so that I am a poor man. My brothers did not come to my aide. 
+
+@label r 1 - r 10
+If . . . , raise me from the bed I am lying on, that I may bring a lavish sheep offering and come before your divinity. . . . May my family not be dispersed. Those who look upon me (hereby) submit (this) petition to your beautiful divinity.

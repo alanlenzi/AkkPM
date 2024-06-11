@@ -1,0 +1,16 @@
+&P523274 = RINAP 2 21
+#project: caspo/akkpm
+#atf: lang akk-x-oldbab
+#atf: use unicode
+##note: RINAP 2 Sargon 21: Q006502
+
+@tablet
+@surface a
+
+1. {d?}UTU? [...]
+
+
+@translation labeled en project
+@label a 1
+{This inscription was so poorly preserved that it was not copied or photographed at the time of its excavation. As the report states: "The limestone threshold intended for doorway Z'' lies even more out of place than does that belonging to portal Z. It has an inscription, so badly weathered as to be undecipherable except for the first line, which fortunately gives us the name of the deity" (Loud 1936: 102). The Akkadian provided here is simply a guess based on this description.}
+

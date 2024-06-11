@@ -1,0 +1,275 @@
+&P492288 = RB 59, pls. 7-8
+#project: caspo/akkpm
+#atf: lang akk-x-oldbab
+#atf: use unicode
+##note: AO 4462 contains the OB lament traditionally entitled in Assyriology "The Babylonian Man and His God." It was first published by Jean Nougayrol, Revue Biblique 50 (1952), 239-250 with a copy of the tablet on pls. VII-VIII. Secondary publication with very important improvements came from W. G. Lambert in the Reiner Fs. = AOS 67, pp. 187-202 (1987), where he lists other secondary literature prior to his article (note especially von Soden Or n.s. 26 [1957], 315-319, the source of many improvements in the text; see Lambert's earlier, brief comments on the text in 1960: 10-11n. 3). SEAL record is at https://seal.huji.ac.il/node/1808?tid=163. CDLI:wiki link: http://cdli.ox.ac.uk/wiki/doku.php?id=dialogue_between_a_man_and_his_god (text and translation). Von Soden 1957: 316-319 lays out the poetic structure: The lament falls into nine strophes each containing ten poetic lines (though not always written on ten lines). Strophe 1 = o1-9 (with o1 containing two poetic lines); Strophe 2 = o10-16 (with o14-16 containing two poetic lines); Strophe 3 = o17-21 (with each containing two poetic lines); Strophe 4 = o22-26 (with each containing two poetic lines); Strophe 5 = o27-31 (with each containing two poetic lines); Strophe 6 = o32-o38 (too damaged to determine poetic lineation); Strophe 7 = r1-9 (with r5 maybe containing two poetic lines); Strophe 8 = r10-19 (with each containing one poetic line); Strophe 9 = r20-29 (with each containing one poetic line); Rev. 30-31 is a colophon.
+
+@obverse
+
+1. eṭ-lu-um ru-i-iš a-na i-li-šu i-ba-ak-ki u₂-te-ne-en-ne-en ik-ta#?-[na]-ra#?-ab#-šu
+#tr.en: A man was crying loudly(?) to his (personal) god; he was continually imploring, he was cons[tantly] entreating(?) him.
+#note: There is some dispute about the meaning of the -iš ending on ruʾiš (see Mayer 1995: 185-186 for the fullest discussion). Many translators understand ruʾiš to indicate that the supplicant complains to the personal god as he would complain to a friend, that is, they understand -iš as indicating a comparison (see, e.g., Foster 2005: 148; Lambert 1987: 189; and CAD R, 439). Von Soden states a comparative form here would be inappropriate (1990: 136n. 1a), but given the close connection between an individual and their personal god, I do not think there is any real problem theologically or socially with such a comparison (likewise, Lambert 1987: 194; to the contrary, Mayer 1995: 186). Others see the -iš as an adverbial-terminative ending, essentially equivalent to ana, and so translate "for (his) friend" (see, e.g., Nougayrol 1952: 243 and von Soden 1990: 136). Mayer says the terminative understanding "ist grammatisch unangreifbar" (1995: 185) but, justifably, in my view, has contextual problems with the implications of such a grammatical understanding since the speaker takes on a kind of intercessory role, i.e., the supplicant is praying for the deity to help his friend, and yet there is no solid indication of such a friend in the remainder of the text (see also Lambert 1987: 194, whose view was a long-standing one [compare already 1960: 11]). Of these two options, I think the latter is better. But, Mayer advocates for another possibility, first raised by van Dijk (1953: 120), that has not received sufficient attention (though cited by Foster 2005: 150 as an alternative), namely, the word is an adverb from an otherwise unattested root in Akkadian (though known in other Semtic languages, e.g., Hebrew רוע), meaning "loudly" here. I am following von Soden's tentative restoration at the end of the line (1990: 136; compare previously, von Soden 1957: 316; likewise Gabbay and Wasserman 2008; and note Lambert's reservations [1987: 194]).
+
+2. ha-mi-iṭ li#-ib-bu-uš du-ul-la-šu ma-ru-iṣ-ma
+#tr.en: His heart was burning; his hardship was grievous,
+
+3. i-ta-aʾ-da-ar ka-ba-at-ta-šu i-ni-in-hi 
+#tr.en: His mood (lit. liver) was gloomy on account of (his) hardship.
+#note: Note the Sandhi writing of ina inḫi.
+
+4. i-ni-iš-ma ik-ta-mi-us i-pa-al-si₂₀-ih
+#tr.en: He became weak and knelt down; he let himself fall to the ground, 
+
+5. ik-bi-us-su₂-um-ma du-ul-la-šu ba-ka-i-iš iq-ra-ab#
+#tr.en: His hardship was (too) heavy for him; he drew near to weep.
+
+6. ki-ma bu-ri-im pa-ar-si-im <ša> i-me-ri i-na-ag-ga-ag
+#tr.en: Like a weaned foal of a donkey he was bellowing, 
+#note: The omission of the ša was recognized already by von Soden 1957: 316.
+
+7. iš-ta#-pu ma-ha-ar i-li-[(im)] re-ši-šu
+#tr.en: He grew loud before his (personal) go[d], his master. 
+#note: The second sign could be a broken ŠA (see CAD Š/1, 487). There is an erased IM after ŠI.
+
+8. ri-mu-um pu-šu-u₂ la-al-la-ra-ma ri-gi-[im-šu]
+#tr.en: His speech (lit. mouth) (was) a bull; [his] voic[e], two mourners,
+
+9. be-li-iš-šu qu₂-ba-am ub-ba-la ša-ap-ta-šu#
+#tr.en: His lips were bringing a lament to his lord.
+
+$ single ruling
+
+10. be-li-iš-šu du-ul-li ih-bu-tu i-ma-an-nu 
+#tr.en: He was recounting the hardship that he had endured (lit. wandered through), 
+
+11. in-hi i-na-hu-u₂# i-pa-aš-ša-ar# eṭ-lu-um# 
+#tr.en: The man was explaining the hardship that he was suffering.
+
+12. be-li am-ta-al#-ka#-am#-ma i-na ka-ba-at-ti-ia 
+#tr.en: My lord, I reflected (with)in myself (lit. in my liver),
+
+13. x x [(x)] x i#-li-ib-bi-im še-eṭ i-pu-šu la i-di#
+#tr.en: . . [.] . in (my) heart; I do not know the sin that I committed.
+#note: For i-pu-šu as an i-prefix first person form instead of the expected e-pu-šu, see Lambert 1987: 199 (note on line 60).
+
+14. x x [x x (x)] x an-zi-il-la-ka a-na-ku# ik#-ki-ba-am le-em-na-ma am-[x x]-x-ar
+#tr.en: Have I . . [. . .] . an abomination against you? Have I . . [. .] . . an evil taboo?
+#note: On the reconstruction of the last word, see Lambert's comments (1987: 195-196).
+
+15. u₂-ul# da#-[(a)]-gi#-il a-hu# [a]-hi-iš-šu ka-ar-ṣi₂ ib-ri-im ib-ra-šu la a#-[ki-il]
+#tr.en: A brother would not l[o]ok at his [br]other with indifference; his friend would not slan[der] a friend.
+#note: The accusation is that the personal god is doing precisely what a brother or friend would never do, which implies that such close human relationships inform the relational expectations between personal god and his protégé.
+
+16. u₂-ul [x x] x-an-ni PI-[x x] x NA ŠU x ša-ap-li-ka be-lu bi-it ri-a-ši-im# [...]
+#tr.en: Would not [. .] . . . [. .] . . . beneath you; the lord of the house of rejoicing [. . .].
+#note: Or, as von Soden translates, "der Herr das Haus des Jauchzens" (1990: 137). For the several issues in the line, see Lambert's discussion (1987: 196).
+
+$ single ruling
+
+17. ši-mi#? [x x (x)] x x x PI? [x (x)] x-a?-ra#? na-zu-iz-za be-lu mi-ša-ri mu-ši#?-[im? ...]
+#tr.en: . . [. . .] . . . [. .] . . ; the lord of justice, who decr[ees(?) . . .], stands present.
+#note: Gabbay and Wasserman 2008 read the initial signs as the imperative "hear." 
+
+18. x [...] I? ŠU? x [x x (x)]-am#?-ma? li-ib-ba-šu nu-as-qu₃-um li-[...]
+#tr.en: . [. . .] . . . [. . .] . . may his precious heart [. . .]
+
+19. x [...] x I# [...] x ra#-ma-an-šu uṣ-ṣu₂-ra a-na [...]
+#tr.en: . [. . .] . . [. . .] .; to guard himself against [. . .]
+#note: Von Soden suggests reading us-su₂-ra, a D stem infinitive of esēru, "to enclose, confine himself" (1990: 137n.19a; likewise, Gabbay and Wasserman 2008).
+
+20. [...] x TU x x [...] x-ni-tu-a ti-ib-ta-x [...]
+#tr.en: [. . .] . . . [. . .] . my . . . [. . .]
+#note: Gabbay and Wasserman 2008 read the line differently (though without translation): [x x x x x x] ṭu₂-bi? [x x x] a?-ni-tu a-ṭi₃-ib ša-x [...], which might be translated "[. . .] my happiness [. . .] this [. . .] I was good . . [. . .]." 
+
+21. [...] ŠE ŠA KU? x [x (x) tu]-ul#-li-da-an-ni u₃ be-[...]
+#tr.en: [. . .] . . . [. . . you] begot me and . . [. . .]
+#note: The KU might be MA. Von Soden prefers to read the verb [bu-u]l-li-ṭa-an-ni (1990: 137n.21a; likewise, Gabbay and Wasserman 2008), "restore me to health."
+
+$ single ruling
+
+22. [...] x-ar a-ta-šu-uš# [...] x x x x x x [(...)]
+#tr.en: [. . .] . . I was aggrieved [. . .] . . . [(. . .)]
+
+23. [...] ki-ma ša x x [...]-ar#-bu?-bi a#-ša#-as#-[si? ...]
+#tr.en: [. . .] like . . . [. . .] . .  . I was cry[ing out(?) . . .]
+#note: The restoration at the end of the line follows Gabbay and Wasserman 2008.
+
+24. [...] UR x iq-ta-ti ka-ba-at-ti ŠI x MA x x [(x)] da#?-ar u₄-mi-ia
+#tr.en: [. . .] . . my mood came to an end; . . . [. . .] . . of my days.
+#note: Von Soden reads ši-[me]-ma, "hear" (1990: 137n.24a; likewise, Gabbay and Wasserman 2008).
+
+25. [iš-tu] ṣe-eh-re-ku a-di# ra-bi-ya-ku ur-ri <<x>> im#-ma-ti mu-x#-[(x)]-HI? 
+#tr.en: [From] my childhood to my maturity, my day(?) in the land(?) . . . 
+#note: After ra-bi-ya-ku, Lambert reads ur-ri-ku?. However, the KU is not in Nougayrol's copy (though he reads [i]m in his transliteration [1952: 244] followed by im-ma-ti; von Soden rejects this: "3. Zeichen sicher nicht IM" [1957: 316]). Although there may have been a third sign, the space the sign should occupy on the photograph looks damaged. Perhaps, the sign was erased. I suggest reading ur-ri <<x>>, "my day," only on the basis of the rather low quality photograph at my disposal. Some translators understand im-ma-ti as an interrrogative, "when?" (e.g., Foster 2005: 149; Lambert 1987: 191). Although that understanding is reasonable, I tentatively follow von Soden (1990: 138n. 25a) in rendering im-ma-ti as a Sandhi writing for ina māti (so also Gabbay and Wasserman 2008). Obviously, if we knew the last word in the line there would be greater clarity for reading its second half.
+
+26. [im-ma]-ti# ma-la tu-da-mi-qa₂-an-ni-ma ma-la al-ze₂#-[nu-u₂]-ku# la am-ši
+#tr.en: [Nev]er did I forget how well you treated me and how much I ridi[culed] you.
+#note: I am following Nougayrol's old restoration at the head of the line (1952: 244), tentatively. Compare von Soden's reading (1990: 138n.26a; and note already von Soden 1965: 47 and 1957: 316): [im-ma]-ti-ma, followed by a negated verb, resulting in a very severe indictment: "[Nie]mals, tatest du mir Gutes an." I do not object to the severity of the claim. However, I do not know what to do with the second half of the line in light of it. Von Soden's translation: "daher vergaß ich, was immer ich leichtfertig [sagte . . . ], gewiß nicht" does not clarify matters adequately (1990: 137).
+
+$ single ruling
+
+27. i-na#? [pa]-an du-um-qi₂ tu-ka-al-li-ma lu-um-na be-li ma#-[ti] tu#-ša-an-me-er IG-[x x (x)]-IB#-BI 
+#tr.en: Inst[ead] of favor, you have shown me evil; O my lord, wh[en] have you illuminated . [. .] . . .
+#note: Von Soden suggests reading i-na [pa]-an, "instead of," at the head of the line (1990: 138n.27a), which I follow here tentatively (likewise, Gabbay and Wasserman 2008, who translate the phrase with "before(?)"). I restore m[a-ti] with von Soden 1957: 317 (likewise, Gabbay and Wasserman 2008). The signs after IG are written beneath the line, beginning directly under be-li. Lambert restored ik-[ki]-ib-bi, understanding this to be a disease called "burning" (1987: 197). Von Soden suggests ik-[ki-i]p-pi₂, standing for ina kippi, and understands the phrase to refer to the coils of entrails and thus to be related to divination (1990: 138n.27d; see earlier 1957: 317). Zisa follows Lambert's restoration but understands the resulting ikkibbi as a form of ikkibu, "abomination." He understands the use of the Š-stem of nawāru, "to make bright," here with ikkibu (which would be unparalleled, as far as I can determine) as a kind of negative counterpart to the later use of the same verb with libbu in rev. 8 (2012: 16, 23-24). The gap on the tablet can easily accommodate two or three signs, and so I find these suggestions unconvincing.
+
+28. ru-ub-bu mu-us₂-ki še-pi₂-iš wa-ta-ti-ma me-eh-ṣe-tim iš?-[ku?-un? x] x ma-hi-ia
+#tr.en: My misfortune has grown; to (my) feet . . . ; it (i.e., the misfortune?) has infli[cted] blows on(?) my . . .
+#note: Lambert renders wa-ta-ti with "it has attached itself" (1987: 191; similarly, Gabbay and Wasserman 2008), parsing the form as a Gt of atû (197). Foster (2005: 149), Gabbay and Wasserman (2008), and Lambert (1987: 191, 197, with hesitations) take the last few signs in the line to mean "my skull." Although I have no better suggestions, I hesitate to accept both proposals.
+
+29. pi₂-a₃-am ma-la?-am tu-ma-ar-ri-ra-am da-an-ni-iš x-[x-x]-x-tu-šu i-wi dad-da-ar-šu
+#tr.en: You make a full(?) mouth very bitter; its. . [. .] . has become like stinkweed.
+#note: Lit. "his stinkweed." Lambert takes ma-la-am to mean "filled" (1987: 191, 197; likewise, Gabbay and Wasserman 2008). Von Soden is not convinced (1990: 138n.29a; likewise, Foster 2005: 149).
+
+30. [(x)] x-tim? tu-ur₂-ri-x ta-ad#-lu-uh ma-mi pi₂-iš-ri x [x] x IR? iš-tu ṣe-eh-re-ku 
+#tr.en: [.] . . you . . . ; you roiled the waters; my release . . [.] . . since I was a child.
+
+31. [x] x x x (x) [x x (x)] x x le-et ša-di-i aš-ru# mu-lu-u₂ mu-ri-da la i-šu-ni
+#tr.en: [.] . . . [. . .] . . the side of the mountain, where the heights offer no way down.
+#note: More literally, "the place (where) the ascent has no descent" (similar to how Lambert renders it, 1987: 193). Von Soden takes aš-ru as a stative, "überprüft sind die Austiege" (1990: 138n. 31a; likewise, Gabbay and Wasserman 2008).
+
+$ single ruling
+
+32. [...] x ni-iš x x ka-qa₂-ar-šu tu-šu-mi-da še-pi₂-ia
+#tr.en: [. . .] . . . ; you have put my feet on the ground.
+#note: According to Lambert's reading (1987: 198), "[t]his couplet introduced the change: the god has now restored the sufferer's fortunes."
+
+33. [... tu]-ša-aš-ši ša-e-li tu-ša-az-ni-in a-ta#
+#tr.en: [You] have made [. . .] to carry [. . .]; you have made my dream interpreter(?) provide (for me).
+#note: Lambert (1987: 198) objects to reading ša-e-li as "dream interpreter" because he thinks it would be inappropriate in this context. However, the causative meanings of našû could very well convey here, if the full context were restored, the remedial or intercessory act of some other ritual official (e.g., the exorcist or diviner), paired with the dream interpreter in the second part of the line. If so, it would fit well with Lambert's notion that the supplicant's restoration begins to be described in the previous line.Von Soden suggests the word designates a praying mantis here (1990: 138): "Mantis-Heuschrecken ließest du herabregnen," though this seems unlikely to me, especially given the fact that this meaning of šāʾilum/šāʾiltum is limited to medical and lexical texts (CAD Š/1, 111).
+
+34. [...] tu-ša-am-li
+#tr.en: [. . .] you have filled,
+
+35. [...]-pi₂-ša-tim ta-aq-ru-un
+#tr.en: [. . .] . . . you have heaped up,
+#note: Von Soden suggests restoring [. . . a-na tap]-pi₂-ša-tim, "for pluckings (of wool)" (1990: 138; likewise, Gabbay and Wasserman 2008). Lambert considers restoring pišātim, "of abuses," but finds it inappropriate contextually. He also considers and rejects a plural form of bišītu, "property," because such a form is unknown otherwise and it is unclear if a plural form is even possible. (AHw, 902 [q/garānu] and CDA, 285 normalize the verb as taqrun. Compare CAD G, 46: tagrun.)
+
+36. [...] x-ti-ia a-bi mu-ti ki-im-ti-ia
+#tr.en: [. . .] my . . . , my father, the head of the household (lit. man of the family).
+
+37. [...] x ar-di?-šu
+#tr.en: [. . .] . of his slave,
+#note: The DI could be a KI.
+
+38. [...] x-šu#
+#tr.en: [. . .] his . . .
+
+@reverse
+
+1. [...] x x [(x)]
+#tr.en: [. . .] . . [.]
+
+2. [...] x ar-di-iš 
+#tr.en: [. . .] to the slave
+
+3. [...] x-ra-AH-ku 
+#tr.en: [. . .] . . .
+
+4. [...]-ra#-ar-šu tu-ma-i-šu
+#tr.en: [. . .] his . . . you . . . him
+#note: The ŠU may also be a MA.
+
+5. [...] u₂#-šu-li-ya-šu ka-qa₂-ar-šu
+#tr.en: [. . .], he raised him up to the ground,
+
+6. [...] il#-ta-pa-as#-[su] ša-ma-an a-si-im
+#tr.en: [. . .], he annointed [him] with myrtle / physician's oil.
+#note: Translators disagree on the precise rendering of a-si-im. Is the term asîm, "of a physician" (so, e.g., Lambert 1987: 193 and likely Foster 2005: 149, "medicinal oil"), or asim, "of myrtle" (so von Soden 1990: 139, Gabbay and Wasserman 2008, and Nougayrol 1952: 247). No one translates "(oil) of a bear"!
+
+7. [id-di-im]-ma# a-ak-la u₃ li-bi-us-su₂ ik-tu-um 
+#tr.en: [He gave (him)] food and covered (him) with a garment (lit. his garment).
+#note: Von Soden objects to this (Lambert's) translation of li-bi-us-su because he says katāmu in the G stem does not take a second object (1990: 139n.45a). However, his alternative understanding (i.e., that it is a form of liptu) and translation "sein Mal deckte er zu" (see also Foster 2005: 149, "(he) covered his blotch"; likewise, Gabbay and Wasserman 2008) seem contextually unlikely. After annointing the supplicant with oil and providing sustenance, clothing the supplicant makes perfect sense. Perhaps a preposition has dropped out of the text (i-na) or perhaps the scribe misunderstood the morphology of the noun (e.g., he might have seen a locative-adverbial -um embedded in li-bi-us-su₂, even though that would undermine the lexical identification as libšu). In any case, I assume there is an error in the line's present condition.
+
+8. i#-za#-as#-su₂-um-ma li-ib-ba-šu u₂-ša-an-me-er
+#tr.en: Attending to him, he brightened his spirits.
+#note: Rendering izzaz with a form of "attend" follows Foster 2005: 149.
+
+9. i-ta-u₂-šu ta-ap-še-ha-at ṭu₂-ub ši-ri-šu
+#tr.en: He spoke to him of the relief his well-being (would bring).
+#note: The phrase tapšeḫat ṭūb šīrīšu literally means "the relief of the goodness of his flesh," and thus "the relief of his well-being." The idea is not that the supplicant is being relieved of his well-being, of course. Rather, the relief that is coming to him is one characterized by well-being. My translation follows Lambert 1987: 193.
+
+$ single ruling
+
+10. ši-ib-bu-uk e-di-il li-ib-bu-uk la i-le-em-mi-in
+#tr.en: Your disease(?) is blocked; your heart should no (longer) be despondent,
+#note: The personal god speaks directly to the supplicant. Lambert understands the initial word as šibbu, "belt," and compares the obscure expression at the beginning of the line with the well-known phrase "gird your loins" in the Hebrew Bible (1987: 198). This seems unlikely to me. Von Soden (1990: 139) and Foster (2005: 149) understand the word as some kind of disease.
+
+11. ga-am-ra ša-na-tu u₂-mu ša# am-la-u₂-ni du-ul-la
+#tr.en: The years (and) days that I (you?) filled with hardship are complete.
+#note: For the -ni ending, see the comments in Lambert 1987: 198 (note on line 31). Von Soden (1990: 139, with n.49a), Foster (2005: 149), Gabbay and Wasserman (2008) prefer to read t[a]-am-la-u₂-ni, a second person verb. As the sign in question is not entirely clear on the tablet, both options remain live.
+
+12. šu-um-ma-ma-an la qa₂-bi-a₃-at a-na ba-la-ṭi-im
+#tr.en: If you were not destined to life,
+
+13. ki-ma-ma-an te-le-ʾi di-a₃-am ka-ab-ta ku-ul-la-ti-iš-šu ta-aš-du-ud
+#tr.en: How could you have endured this grievous disease in its entirety?
+#note: The grammar is problematic (for which, see Lambert 1987: 199). The present translation follows Lambert (1987: 193), Foster (2005: 149), Gabbay and Wasserman 2008, and CAD Š/1, 25. For a different understanding of the first phrase in the line, see von Soden (1990: 139), who posits an otherwise unattested root lêʾum, "to babble, to speak carelessly."
+
+14. ta-mu-ur pu-uš-qa₂-am i-ṣa-am!(BI) ka#-li-ma
+#tr.en: You have experienced trouble (that) was hardly restrained,
+#note: Lambert reads i-ṣa-BI (1987: 192) without a translation, "my . . . is withdrawn" (193). Von Soden emends the text to i-ṣa-am! (1990: 139n.52a; already 1957: 318), followed by Foster (2005: 149), who translates: "litte was held back"; see similarly, Gabbay and Wasserman 2008.
+
+15. tu-uš-ta-ag-me-er-ma bi-il-ta-šu ka-bi-it-ta ta-aš-ši
+#tr.en: You have carried its heavy burden to completion.
+
+16. iš-ṭi₃ i-ku-uk pa-da-nu-um pe₂-ti-i-ku#
+#tr.en: I opened your door wide, the path is clear (lit. open) for you,
+#note: Nougayrol reads the first five signs iš-ti-i-qu₂-uq (1952: 246), which von Soden 1957: 318 and Lambert follow with only a slight modification: iš-ti-i-qu₂-uk, in which the -k is an abbreviated second person suffix. Von Soden derives the verb from a little understood root šiāku/šiāqu, which, based on context alone, he thinks might mean "loslassen" or the like (see still Lambert 1987: 199 and von Soden 1990: 139n.54a, where he limits the derivation to šiāqu). CAD Š/1, 32 (šâqu B) renders our passage "they released(?) you." The reading I have adopted above was suggested by Wasserman (1991, #109; followed in Foster 2005: 149, 150), who suggests the verb is a first person form with i-prefix (as in obv. 13 and rev. 30) from šeṭû.
+
+17. iš-ra-at-ku ṭu₂-du-um u₃ ša-ki-in-ku# re-mu-um#
+#tr.en: The way is straight for you and mercy is established for you.
+
+18. ah-re-ti-iš u₄-mi la ta-ma-aš-šu-u₂# il-[ka]
+#tr.en: In future days, you shall not forget [your] (personal) god,
+
+19. ba-ni-ka ki ta-da-am-mi-qu₂-nim a-at-ta
+#tr.en: Your creator, if you indeed would prosper.
+#note: For the oath-like syntax of this couplet, see von Soden 1957: 318 and his later translation (1990: 139). Lambert objects (1987: 199).
+
+$ single ruling
+
+20. a-na il-ka ba-nu-uk tu-ku-ul-tu-uk
+#tr.en: I (am) your (personal) god, your creator, your trust, 
+#note: For reading a-na, "I," rather than a-na-<ku>, see Lambert 1987: 199.
+
+21. e-ru-kum ma-aṣ-ṣa-ru-ia u₃ da-an-nu-ku-[(um)]
+#tr.en: My guardians are vigilant (lit. awake) and strong on your behalf.
+
+22. A.ŠA₃ ma-ar-qi₂-us-su₂ i-pe₂-et-ti-[ku-(um)]
+#tr.en: I am clearing a place of refuge (lit. a field of its/his refuge) for you,
+#note: Lambert takes the verb as first person with an i-prefix (1987: 193, 199). Foster (2005: 150), Gabbay and Wasserman 2008, and von Soden (1990: 140) translate it as a third person verb with "field" as the subject.
+
+23. a-pa-al-la-as₂-ku-um-ma da-ri-iš ba-la-ṭa#-[am]
+#tr.en: I will see to everlasting lif[e] for you.
+#note: Von Soden suggests restoring tu-ta in the gap at the end of the line (1990: 140n.61a; likewise, Gabbay and Wasserman 2008); thus, "I am watching you so you will always [find(?)] life" (so Gabbay and Wasserman 2008).
+
+24. u₃ a-at-ta e te-ep-ṣi ub-bu-la-am pu-šu-uš#
+#tr.en: And (as for) you, do not hesitate (lit. pale): Anoint the sun-scorched (lit. dried up) person (with oil),
+#note: Most English translations use "parched" to render ubbulam (e.g., Foster 2005: 150; Gabbay and Wasserman 2008, Lambert 1987: 193, and CAD U/W, 12), but "parched" conjures up the idea of a thirsty person (who appears in the next line) rather than a person whose skin has dried out and is in need of oil to restore its suppleness, which is the matter addressed here.  
+
+25. em-ṣa šu-ki-il ši-qi₂ ṣa-mi-a₃ ma-mi
+#tr.en: Feed the hungry; give water to the thirsty.
+
+26. u₃ ša uš-bu-ma iš-ta-ab-bu-ba i-x-[...]
+#tr.en: And the one who sits and . [. . .] is/are constantly burning,
+#note: Lambert reads ša uš-pu, "he who casts sorceries" (1987: 192, 193) but there are no other instances of a finite verb form in the G stem of (w)ašāpu. The reading adopted here, contrary to Lambert (200), does not necessarily imply that the one who is sitting is a beggar (as von Soden suggested, 1957: 319; his "sicher" is the surest sign that the identification is more a guess than a certitude). He may simply be someone experiencing jealousy. Lambert adamantly rejects von Soden's restoration at the end of the line (see already 1957: 319). But von Soden insists that "[d]ie Emendation zu i-n[a!-šu] ist hier die einzig sinnvolle Lesung" (1990: 140n.64b). Thus, the eyes of the person described in the line are burning. Although reasonable, I suspend judgment on the matter.
+
+27. li-iṭ-ṭu₂-ul ak-li-iš-ka li-zu-ub li-hu-ur u₃ li-ih-[ha-ar-mi-iṭ]
+#tr.en: Should he oggle your food, may he ooze, dissolve, and mel[t away].
+#note: For the reading of li-ḫu-ur instead of li-ḫu-ul!(UR), Lambert catalogs the various treatments of this passage in the CAD (which typically emends the text) and suggests that the interchange between the two liquid consonants (/r/ for /l/), though not typical in Akkadian, is a reasonable hypothesis. In either case, the second verb, if correctly written (see presently), derives from ḫâlu. Von Soden takes a very different line of interpretation (1957: 319; 1990: 140). He reads the three verbs: li-ṣu₂-ub li-<im>-ḫu-ur li-iḫ-[du], "may he suck in [from naṣābu], may he receive, and may he rejo[ice]"; followed by Gabbay and Wasserman 2008.
+
+28. pa-ti-ye-et-ma? a-bu-ul šu-ul-mi-im u₃ ba-la-ṭi-im
+#tr.en: The gate of well-being and life is open,
+#note: The MA could be a KU, in which case we should translate: "the gate . . . is open to you" (so von Soden 1957: 319; 1990: 140; Foster 2005: 150).
+
+29. mu-um-ma qe₂-er-bu-uš e-ru-ub ṣi-i lu ša-al-ma-a-at#
+#tr.en: . . . enter inside, go out. May you be whole!
+
+$ single ruling
+
+30. šu-še-er pa-da-nu-uš pe₂-te ṭu₂-du-uš un-ne-en a-ar-di-ka li-ri-id a-na li-bi-ka#
+#tr.en: Make his path straight! Clear his way! May the prayer of your servant flow down (lit. go down) into your heart.
+
+31. ka#-al#-ba#-nu#-um#
+#tr.en: Kalbanum (i.e., the scribe's name)
+#note: The line is indented and the signs are partially erased.

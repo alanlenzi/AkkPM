@@ -1,0 +1,33 @@
+&P523275 = RINAP 2 22
+#project: caspo/akkpm
+#atf: lang akk-x-oldbab
+#atf: use unicode
+##note: RINAP 2 Sargon 22: Q006503
+
+@tablet
+@surface a
+
+1. {d}na-bi-um DUB.SAR gim-ri sa-ni-qu
+#note: I think the words ṭuppi gimri indicate Nabu's universality with regard to scribalism rather than his being "the scribe of all (the universe) (so Frame 2021: 195).
+
+2. mit-hur-ti a-na {m}LUGAL-GI.NA LUGAL kiš-ša₂-ti
+#note: With Pomponio (1978: 181) generally, I think the epithet sāniqu mitḫurti is probably concerned with the deity's role as a scribe. Pomponio thinks the issue at hand is Nabu's ability to find the proper translation between Akkadian and Sumerian ("che esamina la perfetta corrispondenza (nella traduzione dall'una all'altra delle due lingue della cultura babilonese: sumerico ed accadico"), whereas I think it more likely that the epithet indicates Nabu's role as adjudicator of scribal differences of interpretation.
+
+3. LUGAL KUR aš-šur{ki} GIR₃.NITA₂ KA₂.DINGIR.RA{ki} LUGAL KUR EME.GI₇
+4. u₃ URI{ki} ba-nu-u₂ ku-um-mi-ka
+5. i-na ku-un lib₃-bi-ka ki-niš IGI.BAR-su-ma
+6. bu-ni-ka ša mi-ša₂-ri šu-ut-ri-ṣa
+7. ṣe-ru-uš-šu šu-ut-lim-šu UD-MEŠ
+8. DU₁₀.GA UZU-MEŠ ru-qu-ti MU.AN.NA-MEŠ
+9. hu-ud lib-bi ši-i-mi ši-ma-tuš
+10. it-ti AN{+e} u₃ er-ṣe-ti₃
+11. šu-ri-ik BALA-šu li-tep-pu-uš
+12. RE.E₂.UM{+tu₂} ša gi-mir
+13. ma-ti-tan it-ti aš₂-ri u₃ ki-gal-li
+#note: As others have noted (see Frame 2021: 195, note on line 13), ašru and kigallu can also refer to the heavens and the netherworld. Thus, they may form a kind of cosmic merism here.
+
+14. li-ku-na tem-me-en-šu
+
+@translation labeled en project
+@label a 1 - a 14
+O Nabu, scribe of all, who adjudicates (scribal or hermeneutical) conflict, for Sargon, king of the world, king of the land of Ashur, governor of Babylon, king of the land of Sumer and Akkad, builder of your cella: Look upon him in the earnestness of your heart and make your countenance of justice spread out toward him. Bestow upon him a long life of good health. Decree years of joy as his fate. Make his reign endure as long as (does) the heavens and the earth. May he continue to shepherd all the countries. May his foundation be as firm as (this) building (lit. place) and (its) platform.
